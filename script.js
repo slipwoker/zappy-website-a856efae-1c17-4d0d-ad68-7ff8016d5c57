@@ -7684,6 +7684,45 @@ window.onload = function() {
 })();
 
 
+/* Added Component Script */
+(function () {
+  const filterBtns = document.querySelectorAll('.sw-catalog__filter-btn');
+  const cards = document.querySelectorAll('.sw-catalog__card');
+
+  filterBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      // Update active state
+      filterBtns.forEach(function (b) {
+        b.classList.remove('sw-catalog__filter-btn--active');
+        b.setAttribute('aria-selected', 'false');
+      });
+      btn.classList.add('sw-catalog__filter-btn--active');
+      btn.setAttribute('aria-selected', 'true');
+
+      var filter = btn.getAttribute('data-filter');
+
+      cards.forEach(function (card) {
+        var category = card.getAttribute('data-category');
+        if (filter === 'all' || category === filter) {
+          card.classList.remove('sw-catalog__card--hidden');
+          card.style.animation = 'none';
+          // Trigger reflow
+          void card.offsetWidth;
+          card.style.animation = 'swFadeIn 0.35s ease forwards';
+        } else {
+          card.classList.add('sw-catalog__card--hidden');
+        }
+      });
+    });
+  });
+
+  // Inject keyframe animation
+  var style = document.createElement('style');
+  style.textContent = '@keyframes swFadeIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }';
+  document.head.appendChild(style);
+})();
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
