@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות הפאות האונליין המובילה בישראל. קניית פאות איכותיות בישראל מעולם לא הייתה קלה כל כך — עיצובים מרהיבים, שירות מקצועי ומשלוח מהיר לביתך.
+
+### אודות
+https://example.com/about
+Samuel-wigs נולדה מתוך אהבה לאופנה ויופי. גלי את הערכים, החזון והמומחיות שהפכו אותנו למותג הפאות האמין והאלגנטי ביותר עבור נשים בישראל.
+
+### מדריך פאות
+https://example.com/wig-guide
+המדריך המקיף לבחירת פאה מושלמת: סוגי שיער, מידות, טיפוח ועוד. Samuel-wigs מעניקה לך את הידע כדי לבצע קניית פאות איכותיות בישראל בביטחון מלא.
+
+### צור קשר
+https://example.com/contact
+יש שאלות? צוות המומחים של Samuel-wigs כאן בשבילך. פני אלינו עוד היום לייעוץ אישי, הזמנות מותאמות ושירות חם שמתחיל מהרגע הראשון.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Samuel-wigs
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Samuel-wigs
+
+### Category
+https://example.com/category/:slug
+מוצרים - Samuel-wigs
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
