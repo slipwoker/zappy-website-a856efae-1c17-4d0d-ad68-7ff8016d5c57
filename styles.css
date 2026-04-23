@@ -11380,6 +11380,31 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* Added Component Styles */
+.sw-swatch { --swatch-color:#2c1a0e }
+.sw-swatch { --swatch-color:#c8a96e }
+.sw-swatch { --swatch-color:#1a1a1a }
+.sw-swatch { --swatch-color:#8E3A67 }
+.sw-swatch { --swatch-color:#2c1a0e }
+.sw-swatch { --swatch-color:#c8a96e }
+.sw-swatch { --swatch-color:#1a1a1a }
+.sw-swatch { --swatch-color:#6b3a2a }
+.sw-swatch { --swatch-color:#9e9e9e }
+.sw-swatch { --swatch-color:#2c1a0e }
+.sw-swatch { --swatch-color:#c8a96e }
+.sw-swatch { --swatch-color:#1a1a1a }
+.sw-swatch { --swatch-color:#2c1a0e }
+.sw-swatch { --swatch-color:#c8a96e }
+.sw-swatch { --swatch-color:#8E3A67 }
+.sw-swatch { --swatch-color:#b22222 }
+.sw-swatch { --swatch-color:#1a1a1a }
+.sw-swatch { --swatch-color:#2c1a0e }
+.sw-swatch { --swatch-color:#c8a96e }
+.sw-swatch { --swatch-color:#9e9e9e }
+.sw-swatch { --swatch-color:#2c1a0e }
+.sw-swatch { --swatch-color:#1a1a1a }
+.sw-swatch { --swatch-color:#c8a96e }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
