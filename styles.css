@@ -12489,6 +12489,14 @@ body.accessibility-widget-visible ._access-menu {
 .index-hero-section .hero-video-background {
   display: none !important;
 }
+
+.index-hero-section .hero-video-background {
+  display: block !important;
+}
+
+.index-hero-section .hero-video-background .hero-video-fallback {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
