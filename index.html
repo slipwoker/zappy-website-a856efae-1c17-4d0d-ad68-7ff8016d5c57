@@ -836,10 +836,18 @@
 </script>
   
   <main>
-    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" style="; position: relative; overflow: hidden;">
+<div class="hero-video-background">
+  <div class="hero-video-overlay"></div>
+  <video class="hero-video" autoplay="" muted="" loop="" playsinline="">
+    <source src="/assets/hero-video-vid_20260420_090508_906-1777125568334.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <img class="hero-video-fallback" src="/assets/site-index-hero-image-1.webp" alt="Hero background" loading="lazy">
+</div>
   <!-- Background Image -->
   <div class="index-hero-bg">
-    <img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Luxury beauty salon portrait: an elegant woman with flawless, natural-looking long hair in warm champagne and honey tones, soft studio lighting, creamy skin, calm fashion-magazine atmosphere, white or soft ivory background, professional wig styling, high-end beauty editorial feel" width="1200" height="800" src="/assets/site-index-hero-image-1.webp" alt="אישה אלגנטית עם פאה מושלמת בסגנון מגזין אופנה">
+    <img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Luxury beauty salon portrait: an elegant woman with flawless, natural-looking long hair in warm champagne and honey tones, soft studio lighting, creamy skin, calm fashion-magazine atmosphere, white or soft ivory background, professional wig styling, high-end beauty editorial feel" width="1200" height="800" src="/assets/site-index-hero-image-1.webp" alt="אישה אלגנטית עם פאה מושלמת בסגנון מגזין אופנה" style="; display: none !important;" class="hero-original-image-hidden">
   </div>
 
   <!-- Scrim Overlay -->
