@@ -12485,6 +12485,10 @@ body.accessibility-widget-visible ._access-menu {
     padding: 15px 24px;
   }
 }
+
+.index-hero-section .hero-video-background {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
