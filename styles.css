@@ -17100,6 +17100,33 @@ main,
     justify-content: center;
   }
 }
+
+/* Added Component Styles */
+.wig-swatch { --swatch-color: #CC0000; }
+.wig-swatch { --swatch-color: #FF3333; }
+.wig-swatch { --swatch-color: #990000; }
+.wig-swatch { --swatch-color: #FFB6C1; }
+.wig-swatch { --swatch-color: #FF69B4; }
+.wig-swatch { --swatch-color: #FFC0CB; }
+.wig-swatch { --swatch-color: #6A0DAD; }
+.wig-swatch { --swatch-color: #9B59B6; }
+.wig-swatch { --swatch-color: #3498DB; }
+.wig-swatch { --swatch-color: #FF6B6B; }
+.wig-swatch { --swatch-color: #FFD93D; }
+.wig-swatch { --swatch-color: #6BCB77; }
+.wig-swatch { --swatch-color: #4D96FF; }
+.wig-swatch { --swatch-color: #1a1a1a; }
+.wig-swatch { --swatch-color: #FF00AA; }
+.wig-swatch { --swatch-color: #CC0077; }
+.wig-swatch { --swatch-color: #FF6B35; }
+.wig-swatch { --swatch-color: #F7C59F; }
+.wig-swatch { --swatch-color: #FFD700; }
+.wig-swatch { --swatch-color: #AED9E0; }
+.wig-swatch { --swatch-color: #B8D8E8; }
+.wig-swatch { --swatch-color: #E0F4F8; }
+.wig-swatch { --swatch-color: #2D6A4F; }
+.wig-swatch { --swatch-color: #52B788; }
+.wig-swatch { --swatch-color: #95D5B2; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
