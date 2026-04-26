@@ -7746,6 +7746,34 @@ async function loadRelatedProducts(currentProduct, t) {
   }
 })();
 
+/* Added Component Script */
+(function () {
+  // Add to Cart interaction
+  const cartButtons = document.querySelectorAll('.shop-add-to-cart-btn');
+  const toast = document.getElementById('shopToast');
+  let toastTimeout = null;
+
+  cartButtons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      // Button feedback
+      const originalText = btn.innerHTML;
+      btn.innerHTML = '<svg class="shop-cart-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> נוסף!';
+      btn.style.background = '#3a8a4e';
+      setTimeout(function () {
+        btn.innerHTML = originalText;
+        btn.style.background = '';
+      }, 1500);
+
+      // Show toast
+      if (toastTimeout) clearTimeout(toastTimeout);
+      toast.classList.add('shop-toast-visible');
+      toastTimeout = setTimeout(function () {
+        toast.classList.remove('shop-toast-visible');
+      }, 2800);
+    });
+  });
+})();
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
