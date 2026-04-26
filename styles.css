@@ -17984,6 +17984,14 @@ main,
     gap: 5px;
   }
 }
+
+.wig-size-table-section .wig-size-row.wig-size-popular td {
+  vertical-align: middle;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  line-height: normal !important;
+  height: auto !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
