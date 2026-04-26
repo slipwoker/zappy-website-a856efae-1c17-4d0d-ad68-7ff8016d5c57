@@ -7686,6 +7686,66 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
+/* Added Component Script */
+(function () {
+  const lightbox = document.getElementById('galleryLightbox');
+  const lightboxImg = document.getElementById('galleryLightboxImg');
+  const closeBtn = document.getElementById('galleryLightboxClose');
+
+  // Open lightbox on image click
+  document.querySelectorAll('.gallery-img-wrap').forEach(function (wrap) {
+    wrap.addEventListener('click', function () {
+      const img = wrap.querySelector('.gallery-img');
+      if (!img) return;
+      lightboxImg.src = img.src;
+      lightboxImg.alt = img.alt;
+      lightbox.classList.add('gallery-lightbox-open');
+      lightbox.setAttribute('aria-hidden', 'false');
+      closeBtn.focus();
+    });
+  });
+
+  // Close lightbox on button click
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closeLightbox);
+  }
+
+  // Close lightbox on background click
+  if (lightbox) {
+    lightbox.addEventListener('click', function (e) {
+      if (e.target === lightbox) closeLightbox();
+    });
+  }
+
+  // Close on Escape key
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && lightbox && lightbox.classList.contains('gallery-lightbox-open')) {
+      closeLightbox();
+    }
+  });
+
+  function closeLightbox() {
+    lightbox.classList.remove('gallery-lightbox-open');
+    lightbox.setAttribute('aria-hidden', 'true');
+    lightboxImg.src = '';
+  }
+
+  // Video placeholder click (open a prompt to add video URL or just focus)
+  const videoWrap = document.querySelector('.gallery-video-placeholder');
+  if (videoWrap) {
+    videoWrap.addEventListener('click', function () {
+      // Users can replace this with actual video embed logic
+      console.log('Video placeholder clicked — replace with video embed or modal.');
+    });
+    videoWrap.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        videoWrap.click();
+      }
+    });
+  }
+})();
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
