@@ -17996,6 +17996,50 @@ main,
 .wig-size-table-section .wig-size-row td.wig-size-label {
   white-space: nowrap;
 }
+
+.index-brand-story-section .ibs-card-image-wrap img {
+  width: 100% !important;
+  height: 320px !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
+
+.shop-gallery-section .shop-product-image-wrapper {
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.shop-gallery-section .shop-product-image {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
+
+.wig-templates-section .wig-card-image-wrap {
+  overflow: hidden;
+  width: 100%;
+}
+
+.wig-templates-section .wig-card-img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
+
+.wigs-colored-section .wigs-colored-card .wigs-colored-card-body img,
+.wigs-colored-section img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
