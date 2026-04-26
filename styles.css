@@ -17992,6 +17992,10 @@ main,
   line-height: normal !important;
   height: auto !important;
 }
+
+.wig-size-table-section .wig-size-row td.wig-size-label {
+  white-space: nowrap;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
