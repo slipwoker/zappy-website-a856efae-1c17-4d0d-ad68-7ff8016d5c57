@@ -556,6 +556,34 @@
   </div>
 </footer>
     <div data-integration="accessibility:toolbar"></div>
+<script>
+window.interdeal = {
+    "sitekey": "free",
+    "Position": "left",
+    "Menulang": "HE",
+    "domains": {
+        "js": "https://cdn.equalweb.com/",
+        "acc": "https://access.equalweb.com/"
+    },
+    "btnStyle": {
+        "vPosition": ["80%", "80%"],
+        "scale": ["0.8", "0.8"],
+        "color": {
+            "main": "#000000",
+            "second": "#ffffff"
+        }
+    }
+};
+(function(doc, head, body){
+    var coreCall             = doc.createElement('script');
+    coreCall.src             = 'https://cdn.equalweb.com/core/4.4.0/accessibility.js';
+    coreCall.defer           = true;
+    coreCall.integrity       = 'sha512-...';
+    coreCall.crossOrigin     = 'anonymous';
+    coreCall.setAttribute('data-cfasync', true );
+    body? body.appendChild(coreCall) : head.appendChild(coreCall);
+})(document, document.head, document.body);
+</script>
 
 
     <script src="/script.js"></script>
