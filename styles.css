@@ -18040,6 +18040,13 @@ main,
   object-position: center center !important;
   display: block !important;
 }
+
+.index-brand-story-section .ibs-card-image-wrap img {
+  object-fit: cover !important;
+  object-position: center center !important;
+  width: 100% !important;
+  height: 100% !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
