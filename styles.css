@@ -18059,6 +18059,37 @@ main,
   object-fit: cover !important;
   display: block;
 }
+
+#ai-section-1777211315720-0bdy3e0 .wig-templates-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  gap: 24px !important;
+}
+
+@media (max-width: 1024px) {
+#ai-section-1777211315720-0bdy3e0 .wig-templates-grid {
+  grid-template-columns: repeat(2, 1fr) !important;
+}
+}
+
+@media (max-width: 600px) {
+#ai-section-1777211315720-0bdy3e0 .wig-templates-grid {
+  grid-template-columns: 1fr !important;
+}
+}
+
+#ai-section-1777211315720-0bdy3e0 .wig-card-image-wrap {
+  height: 280px !important;
+  overflow: hidden !important;
+  position: relative !important;
+}
+
+#ai-section-1777211315720-0bdy3e0 .wig-card-img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  display: block !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
