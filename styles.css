@@ -9927,6 +9927,152 @@ body.zappy-edit-mode .zappy-editable-video-bg {
   display: block !important;
 }
 
+
+
+
+
+/* AI-generated section */
+/* ── Shipping Announcement Banner ── */
+.banner-shipping-announcement {
+  direction: rtl;
+  font-family: system-ui, sans-serif;
+  background: var(--gradient-primary, linear-gradient(180deg, #A53B66 0%, #8B3156 100%));
+  width: 100%;
+  padding: 18px 24px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 3px 18px rgba(142, 58, 103, 0.35);
+}
+
+/* Subtle shimmer overlay */
+.banner-shipping-announcement::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.06) 40%,
+    rgba(255, 255, 255, 0.12) 50%,
+    rgba(255, 255, 255, 0.06) 60%,
+    transparent 100%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Decorative soft circles */
+.banner-shipping-announcement::after {
+  content: '';
+  position: absolute;
+  top: -40px;
+  left: -40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.05);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.banner-shipping-inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.banner-shipping-icon {
+  font-size: 2rem;
+  line-height: 1;
+  flex-shrink: 0;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.18));
+  animation: banner-truck-bounce 2.4s ease-in-out infinite;
+}
+
+@keyframes banner-truck-bounce {
+  0%, 100% { transform: translateX(0); }
+  25%       { transform: translateX(-5px); }
+  75%       { transform: translateX(5px); }
+}
+
+.banner-shipping-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.banner-shipping-main {
+  margin: 0;
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.18);
+}
+
+.banner-shipping-sub {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.82rem;
+  font-weight: 400;
+  letter-spacing: 0.025em;
+  line-height: 1.4;
+  font-style: italic;
+}
+
+.banner-shipping-deco {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.55);
+  flex-shrink: 0;
+  animation: banner-deco-pulse 3s ease-in-out infinite;
+}
+
+@keyframes banner-deco-pulse {
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50%       { opacity: 0.9;  transform: scale(1.25); }
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .banner-shipping-announcement {
+    padding: 14px 16px;
+  }
+
+  .banner-shipping-inner {
+    gap: 10px;
+  }
+
+  .banner-shipping-icon {
+    font-size: 1.6rem;
+  }
+
+  .banner-shipping-main {
+    font-size: 1.05rem;
+  }
+
+  .banner-shipping-sub {
+    font-size: 0.76rem;
+  }
+
+  .banner-shipping-deco {
+    display: none;
+  }
+}
+
+@media (max-width: 380px) {
+  .banner-shipping-main {
+    font-size: 0.95rem;
+  }
+}
+
 /* ==ZAPPY V2 E-COMMERCE THEME CSS== */
 /* ═══════════════════════════════════════════════════════════════════════════ */
 /* V2 E-COMMERCE CSS - Clean V2 Variables Only                                  */
@@ -10270,7 +10416,7 @@ a, button {
   min-height: 0;
 }
 .product-card.detailed .price { font-size: 20px; padding-top: 8px; }
-.product-card.detailed .add-to-cart { display: block; padding: 12px; margin: 0 14px 14px; align-self: stretch; box-sizing: border-box; }
+.product-card.detailed .add-to-cart { display: block; width: auto; padding: 12px; margin: 0 14px 14px; align-self: stretch; box-sizing: border-box; }
 
 /* Product tags (sale, new, featured badges) */
 .product-tag { display: inline-block; padding: 4px 10px; font-size: 11px; font-weight: 600; border-radius: 4px; background: var(--accent, var(--primary)); color: #fff; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.15); pointer-events: auto; }
@@ -10417,7 +10563,7 @@ a, button {
   .products-main .product-grid:not(.view-list) .product-card p { font-size: 11px !important; overflow: hidden !important; margin: 0 0 4px 0 !important; -webkit-line-clamp: 1 !important; display: -webkit-box !important; -webkit-box-orient: vertical !important; }
   .products-main .product-grid:not(.view-list) .product-card.detailed p { -webkit-line-clamp: 5 !important; }
   .products-main .product-grid:not(.view-list) .product-card .price { font-size: 14px !important; padding-top: 2px !important; }
-  .products-main .product-grid:not(.view-list) .product-card .add-to-cart { padding: 6px 10px !important; font-size: 11px !important; margin: 0 10px 10px !important; }
+  .products-main .product-grid:not(.view-list) .product-card .add-to-cart { width: auto !important; padding: 6px 10px !important; font-size: 11px !important; margin: 0 10px 10px !important; }
   .product-grid.view-list { display: flex !important; flex-direction: column !important; gap: 10px !important; }
   .product-grid.view-list .product-card { flex-direction: row; flex-wrap: nowrap; align-items: stretch; overflow: hidden; max-height: none; padding: 0 !important; gap: 0; }
   .product-grid.view-list .product-card .product-card-inner { flex: 1 1 0%; flex-direction: row; gap: 0; min-width: 0; }
@@ -12564,7 +12710,7 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
     overflow: visible !important;
     border-radius: 9999px !important;
     border: 1px solid rgba(128,128,128,0.2) !important;
-    background: var(--bg-light, #ffffff) !important;
+    background: var(--bg-light, #fff) !important;
   }
 
   /* Icon color: always use text-dark on mobile since circles are always bg-light.
@@ -12699,7 +12845,7 @@ html[lang="ar"] .mobile-search-panel .search-wrapper,
     justify-content: center !important;
     border-radius: 9999px !important;
     border: 1px solid rgba(128,128,128,0.2) !important;
-    background: var(--bg-light, #ffffff) !important;
+    background: var(--bg-light, #fff) !important;
     color: var(--text-dark, #1a1a1a) !important;
     padding: 0 !important;
     position: relative !important; /* anchor cart badge */
@@ -13016,7 +13162,7 @@ body.zappy-focused-page .zappy-announcement-bar {
     min-width: 200px;
     max-height: calc(100vh - 150px) !important;
     overflow-y: auto !important;
-    background: var(--bg-light, #ffffff) !important;
+    background: var(--bg-light, #fff) !important;
     border-radius: 8px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.3);
     padding: 8px;
@@ -13224,7 +13370,7 @@ main,
   .navbar .sub-menu,
   .navbar ul.sub-menu,
   nav.navbar .sub-menu {
-    background: var(--bg-light, #ffffff) !important;
+    background: var(--bg-light, #fff) !important;
     border-radius: 8px !important;
     box-shadow: 0 4px 20px rgba(0,0,0,0.3) !important;
     margin: 0 !important;
@@ -13262,7 +13408,7 @@ main,
 
   /* Catalog dropdown submenu */
   .zappy-products-dropdown .sub-menu {
-    background: var(--bg-light, #ffffff) !important;
+    background: var(--bg-light, #fff) !important;
     margin: 0 !important;
     padding-top: 12px !important;
   }
@@ -13320,7 +13466,7 @@ main,
     overflow: visible !important;
     border-radius: 9999px !important;
     border: 1px solid rgba(128,128,128,0.2) !important;
-    background: var(--bg-light, #ffffff) !important;
+    background: var(--bg-light, #fff) !important;
   }
 
   /* Icon color: always use text-dark on mobile since circles are always bg-light. */
@@ -13514,7 +13660,7 @@ main,
   padding: 40px 20px !important;
   color: rgba(0,0,0,0.6) !important;
   font-size: 1rem !important;
-  background: var(--bg-light) !important;
+  background: var(--bg-light, #fff) !important;
   border-radius: 12px !important;
   margin: 0 auto !important;
   max-width: 600px !important;
@@ -15756,6 +15902,133 @@ a, button {
   color: var(--text-dark);
 }
 
+/* Upsells (frequently bought together) on the product detail page.
+   Rendered inline with the rest of the product info — no card chrome
+   (border / background / radius) so it blends with the surrounding
+   variant selectors and stock badge.
+   The Star Shoes site (and other branded V2 sites) cascade an accent color
+   onto descendant links/text inside .product-info, which made the upsell
+   product names render in the brand accent (e.g. yellow) instead of body
+   text. The selectors below are scoped to .product-upsells and explicitly
+   set color: var(--text-dark) so theme accents do NOT bleed into upsell rows.
+   List bullets are also suppressed since the rows render their own checkbox. */
+.product-upsells {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 16px 0;
+}
+.product-upsells .upsells-header { margin: 0 0 8px; }
+.product-upsells .upsells-subtitle {
+  margin: 0;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+.product-upsells .upsells-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.product-upsells .upsell-row {
+  list-style: none !important;
+  border-top: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  cursor: pointer;
+  outline: none;
+}
+.product-upsells .upsell-row::marker { content: '' !important; }
+.product-upsells .upsell-row::before { content: none !important; }
+.product-upsells .upsell-row:first-child { border-top: none; }
+.product-upsells .upsell-row:focus-visible {
+  box-shadow: inset 0 0 0 2px var(--accent, var(--primary));
+  border-radius: 4px;
+}
+.product-upsells .upsell-row.is-out-of-stock {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+.product-upsells .upsell-checkbox {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  cursor: pointer;
+  accent-color: var(--accent, var(--primary));
+  margin: 0;
+}
+.product-upsells .upsell-row.is-out-of-stock .upsell-checkbox { cursor: not-allowed; }
+.product-upsells .upsell-row-text {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+}
+.product-upsells .upsell-name {
+  color: var(--text-dark);
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none;
+  line-height: 1.3;
+  word-break: break-word;
+  max-width: 100%;
+}
+.product-upsells .upsell-name:hover {
+  color: var(--accent, var(--primary));
+  text-decoration: underline;
+}
+.product-upsells .upsell-stock-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  color: #b91c1c;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.product-upsells .upsell-price {
+  color: var(--text-dark);
+  font-weight: 600;
+  font-size: 0.95rem;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.product-upsells .upsell-price.upsell-price-free {
+  color: #047857;
+  background: #d1fae5;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.product-upsells .upsells-total {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed var(--border-light);
+  font-size: 0.95rem;
+  color: var(--text-muted);
+}
+.product-upsells .upsells-total-amount {
+  color: var(--text-dark);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.product-upsells .upsells-total-count {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+@media (max-width: 480px) {
+  .product-upsells .upsell-row { gap: 8px; }
+}
+
 /* Category page */
 .category-header { margin-bottom: 32px; }
 .category-header-loading { text-align: center; padding: 40px; }
@@ -17550,13 +17823,13 @@ main,
 /* ─────────────────────────────────────────────────────────────────────────────
    HOMEPAGE: FEATURED SECTIONS (PRODUCTS + CATEGORIES)
    These used to be styled by V1 base CSS; must live in V2 generateCss()
-   Background uses hero-divider-aware theme: #FBF8F5 (LIGHT)
+   Background uses hero-divider-aware theme: var(--bg-light) (LIGHT)
    ───────────────────────────────────────────────────────────────────────────── */
 
 /* Featured Products Section (Home Page) */
 .featured-products-section {
   padding: 60px 24px !important;
-  background: #FBF8F5 !important;
+  background: var(--bg-light) !important;
 }
 .featured-products-section .section-title {
   text-align: center !important;
@@ -17608,7 +17881,7 @@ main,
 /* Featured Categories Section (Home Page) */
 .featured-categories-section {
   padding: 60px 24px !important;
-  background: #FBF8F5 !important;
+  background: var(--bg-light) !important;
 }
 .featured-categories-section .section-title {
   text-align: center !important;
@@ -18094,148 +18367,6 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
-
-/* AI-generated section */
-/* ── Shipping Announcement Banner ── */
-.banner-shipping-announcement {
-  direction: rtl;
-  font-family: system-ui, sans-serif;
-  background: var(--gradient-primary, linear-gradient(180deg, #A53B66 0%, #8B3156 100%));
-  width: 100%;
-  padding: 18px 24px;
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 3px 18px rgba(142, 58, 103, 0.35);
-}
-
-/* Subtle shimmer overlay */
-.banner-shipping-announcement::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    rgba(255, 255, 255, 0.06) 40%,
-    rgba(255, 255, 255, 0.12) 50%,
-    rgba(255, 255, 255, 0.06) 60%,
-    transparent 100%
-  );
-  pointer-events: none;
-  z-index: 0;
-}
-
-/* Decorative soft circles */
-.banner-shipping-announcement::after {
-  content: '';
-  position: absolute;
-  top: -40px;
-  left: -40px;
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.05);
-  pointer-events: none;
-  z-index: 0;
-}
-
-.banner-shipping-inner {
-  position: relative;
-  z-index: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  max-width: 900px;
-  margin: 0 auto;
-  text-align: center;
-}
-
-.banner-shipping-icon {
-  font-size: 2rem;
-  line-height: 1;
-  flex-shrink: 0;
-  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.18));
-  animation: banner-truck-bounce 2.4s ease-in-out infinite;
-}
-
-@keyframes banner-truck-bounce {
-  0%, 100% { transform: translateX(0); }
-  25%       { transform: translateX(-5px); }
-  75%       { transform: translateX(5px); }
-}
-
-.banner-shipping-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 4px;
-}
-
-.banner-shipping-main {
-  margin: 0;
-  color: #ffffff;
-  font-size: 1.25rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  line-height: 1.3;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.18);
-}
-
-.banner-shipping-sub {
-  margin: 0;
-  color: rgba(255, 255, 255, 0.88);
-  font-size: 0.82rem;
-  font-weight: 400;
-  letter-spacing: 0.025em;
-  line-height: 1.4;
-  font-style: italic;
-}
-
-.banner-shipping-deco {
-  font-size: 1.1rem;
-  color: rgba(255, 255, 255, 0.55);
-  flex-shrink: 0;
-  animation: banner-deco-pulse 3s ease-in-out infinite;
-}
-
-@keyframes banner-deco-pulse {
-  0%, 100% { opacity: 0.55; transform: scale(1); }
-  50%       { opacity: 0.9;  transform: scale(1.25); }
-}
-
-/* ── Responsive ── */
-@media (max-width: 600px) {
-  .banner-shipping-announcement {
-    padding: 14px 16px;
-  }
-
-  .banner-shipping-inner {
-    gap: 10px;
-  }
-
-  .banner-shipping-icon {
-    font-size: 1.6rem;
-  }
-
-  .banner-shipping-main {
-    font-size: 1.05rem;
-  }
-
-  .banner-shipping-sub {
-    font-size: 0.76rem;
-  }
-
-  .banner-shipping-deco {
-    display: none;
-  }
-}
-
-@media (max-width: 380px) {
-  .banner-shipping-main {
-    font-size: 0.95rem;
-  }
-}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
