@@ -18367,6 +18367,294 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+/* AI-generated section */
+/* =============================================
+   VIDEO SECTION — vidsec
+   ============================================= */
+
+.vidsec-section {
+  background: linear-gradient(160deg, #fdf5f9 0%, #f8eef4 60%, #fdf5f9 100%);
+  padding: 90px 24px 100px;
+  font-family: system-ui, sans-serif;
+  direction: rtl;
+  text-align: right;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Subtle decorative background accent */
+.vidsec-section::before {
+  content: '';
+  position: absolute;
+  top: -120px;
+  left: -120px;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(142,58,103,0.07) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.vidsec-section::after {
+  content: '';
+  position: absolute;
+  bottom: -100px;
+  right: -100px;
+  width: 360px;
+  height: 360px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(142,58,103,0.06) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+/* ---- Container ---- */
+.vidsec-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* ---- Header ---- */
+.vidsec-header {
+  text-align: center;
+  margin-bottom: 56px;
+}
+
+.vidsec-headline {
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-weight: 800;
+  color: #3a1a2e;
+  margin: 0 0 18px;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+  position: relative;
+  display: inline-block;
+}
+
+.vidsec-headline::after {
+  content: '';
+  display: block;
+  width: 64px;
+  height: 4px;
+  background: var(--gradient-primary, linear-gradient(180deg, #A53B66 0%, #8B3156 100%));
+  border-radius: 2px;
+  margin: 14px auto 0;
+}
+
+.vidsec-subtext {
+  font-size: clamp(1rem, 2.5vw, 1.15rem);
+  color: #6b3a55;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.75;
+  font-weight: 400;
+}
+
+/* ---- Grid ---- */
+.vidsec-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* ---- Card ---- */
+.vidsec-card {
+  background: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow:
+    0 2px 8px rgba(142, 58, 103, 0.08),
+    0 8px 32px rgba(142, 58, 103, 0.10);
+  border: 1px solid rgba(142, 58, 103, 0.12);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.vidsec-card:hover {
+  transform: translateY(-5px);
+  box-shadow:
+    0 6px 20px rgba(142, 58, 103, 0.14),
+    0 16px 48px rgba(142, 58, 103, 0.16);
+}
+
+/* ---- Embed Wrapper (16:9) ---- */
+.vidsec-embed-wrap {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 */
+  background: #1a0d15;
+  overflow: hidden;
+}
+
+/* ---- Play Button (covers the whole embed area) ---- */
+.vidsec-play-btn {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  display: block;
+}
+
+.vidsec-play-btn:focus-visible {
+  outline: 3px solid var(--primary, #8E3A67);
+  outline-offset: -3px;
+}
+
+/* ---- Thumbnail ---- */
+.vidsec-thumbnail {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.vidsec-thumb-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.vidsec-card:hover .vidsec-thumb-img {
+  transform: scale(1.04);
+}
+
+/* ---- Dark overlay on thumbnail ---- */
+.vidsec-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(20, 5, 15, 0.15) 0%,
+    rgba(20, 5, 15, 0.45) 100%
+  );
+  transition: background 0.3s ease;
+}
+
+.vidsec-card:hover .vidsec-overlay {
+  background: linear-gradient(
+    to bottom,
+    rgba(20, 5, 15, 0.25) 0%,
+    rgba(142, 58, 103, 0.55) 100%
+  );
+}
+
+/* ---- Play Icon ---- */
+.vidsec-play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.35));
+}
+
+.vidsec-play-icon svg {
+  width: 64px;
+  height: 64px;
+}
+
+.vidsec-card:hover .vidsec-play-icon {
+  transform: translate(-50%, -50%) scale(1.12);
+}
+
+/* ---- Card Info ---- */
+.vidsec-card-info {
+  padding: 20px 22px 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  border-top: 1px solid rgba(142, 58, 103, 0.08);
+}
+
+.vidsec-card-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #2e1020;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.vidsec-card-desc {
+  font-size: 0.9rem;
+  color: #7a4a65;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* =============================================
+   RESPONSIVE
+   ============================================= */
+
+@media (max-width: 768px) {
+  .vidsec-section {
+    padding: 60px 16px 70px;
+  }
+
+  .vidsec-header {
+    margin-bottom: 36px;
+  }
+
+  .vidsec-grid {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
+  .vidsec-headline::after {
+    width: 48px;
+  }
+
+  .vidsec-play-icon {
+    width: 52px;
+    height: 52px;
+  }
+
+  .vidsec-play-icon svg {
+    width: 52px;
+    height: 52px;
+  }
+
+  .vidsec-card-info {
+    padding: 16px 18px 20px;
+  }
+
+  .vidsec-card-title {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .vidsec-section {
+    padding: 48px 12px 56px;
+  }
+
+  .vidsec-subtext {
+    font-size: 0.95rem;
+  }
+
+  .vidsec-card-desc {
+    font-size: 0.875rem;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
