@@ -18094,6 +18094,148 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+/* AI-generated section */
+/* ── Shipping Announcement Banner ── */
+.banner-shipping-announcement {
+  direction: rtl;
+  font-family: system-ui, sans-serif;
+  background: var(--gradient-primary, linear-gradient(180deg, #A53B66 0%, #8B3156 100%));
+  width: 100%;
+  padding: 18px 24px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 3px 18px rgba(142, 58, 103, 0.35);
+}
+
+/* Subtle shimmer overlay */
+.banner-shipping-announcement::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.06) 40%,
+    rgba(255, 255, 255, 0.12) 50%,
+    rgba(255, 255, 255, 0.06) 60%,
+    transparent 100%
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Decorative soft circles */
+.banner-shipping-announcement::after {
+  content: '';
+  position: absolute;
+  top: -40px;
+  left: -40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.05);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.banner-shipping-inner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.banner-shipping-icon {
+  font-size: 2rem;
+  line-height: 1;
+  flex-shrink: 0;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.18));
+  animation: banner-truck-bounce 2.4s ease-in-out infinite;
+}
+
+@keyframes banner-truck-bounce {
+  0%, 100% { transform: translateX(0); }
+  25%       { transform: translateX(-5px); }
+  75%       { transform: translateX(5px); }
+}
+
+.banner-shipping-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.banner-shipping-main {
+  margin: 0;
+  color: #ffffff;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  line-height: 1.3;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.18);
+}
+
+.banner-shipping-sub {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 0.82rem;
+  font-weight: 400;
+  letter-spacing: 0.025em;
+  line-height: 1.4;
+  font-style: italic;
+}
+
+.banner-shipping-deco {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.55);
+  flex-shrink: 0;
+  animation: banner-deco-pulse 3s ease-in-out infinite;
+}
+
+@keyframes banner-deco-pulse {
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50%       { opacity: 0.9;  transform: scale(1.25); }
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .banner-shipping-announcement {
+    padding: 14px 16px;
+  }
+
+  .banner-shipping-inner {
+    gap: 10px;
+  }
+
+  .banner-shipping-icon {
+    font-size: 1.6rem;
+  }
+
+  .banner-shipping-main {
+    font-size: 1.05rem;
+  }
+
+  .banner-shipping-sub {
+    font-size: 0.76rem;
+  }
+
+  .banner-shipping-deco {
+    display: none;
+  }
+}
+
+@media (max-width: 380px) {
+  .banner-shipping-main {
+    font-size: 0.95rem;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
