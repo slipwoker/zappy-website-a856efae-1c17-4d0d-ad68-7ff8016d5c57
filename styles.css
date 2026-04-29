@@ -18978,13 +18978,6 @@ main,
 .checkout-section .checkout-place-order-btn:disabled {
   color: var(--primary) !important;
 }
-/* Batch: ניסיון שחזור צבע כפתור קופון */
-.site-footer .coupon-section button, .navbar .coupon-btn { background: var(--primary) !important; }
-
-/* Checkout coupon button color restoration */
-.zappy-checkout-section button[class*='coupon'],
-.zappy-checkout-section .coupon-toggle,
-.zappy-order-summary button { background-color: var(--primary) !important; color: var(--text-light) !important; border-color: var(--primary) !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
