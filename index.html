@@ -1353,7 +1353,19 @@
   
   <script src="/script.js"></script>
 
-    <!-- Accessibility widget -->
+    <!-- Accessibility widget (Nagish) -->
+<script>
+(function(){
+  if(document.getElementById('zappy-nagish-widget')) return;
+  var s = document.createElement('script');
+  s.id = 'zappy-nagish-widget';
+  s.src = 'https://nagish.co.il/widget/nagish.js';
+  s.async = true;
+  document.head.appendChild(s);
+})();
+</script>
+
+    <!-- Accessibility widget (Nagish) -->
 <script>
 (function(){
   var s = document.createElement('script');
@@ -1361,71 +1373,6 @@
   s.async = true;
   document.head.appendChild(s);
 })();
-</script>
-
-<!-- Accessibility floating button fallback -->
-<style>
-#zappy-a11y-btn {
-  position: fixed;
-  left: 16px;
-  bottom: 80px;
-  z-index: 99999;
-  width: 52px;
-  height: 52px;
-  border-radius: 50%;
-  background: #0066CC;
-  color: #fff;
-  border: none;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.25);
-  font-size: 26px;
-  text-decoration: none;
-}
-#zappy-a11y-btn:hover { background: #0055aa; }
-#zappy-a11y-menu {
-  display: none;
-  position: fixed;
-  left: 16px;
-  bottom: 140px;
-  z-index: 99998;
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 6px 24px rgba(0,0,0,0.18);
-  padding: 12px;
-  min-width: 220px;
-  direction: rtl;
-  font-family: inherit;
-}
-#zappy-a11y-menu.open { display: block; }
-#zappy-a11y-menu h4 { margin: 0 0 10px; font-size: 15px; color: #0066CC; border-bottom: 1px solid #eee; padding-bottom: 8px; }
-#zappy-a11y-menu button {
-  display: block; width: 100%; text-align: right; background: none;
-  border: none; padding: 8px 6px; font-size: 14px; cursor: pointer;
-  border-radius: 6px; color: #222;
-}
-#zappy-a11y-menu button:hover { background: #f0f4ff; }
-</style>
-<button id="zappy-a11y-btn" aria-label="תפריט נגישות" title="נגישות" onclick="document.getElementById('zappy-a11y-menu').classList.toggle('open')">
-  ♿
-</button>
-<div id="zappy-a11y-menu" role="dialog" aria-label="אפשרויות נגישות">
-  <h4>♿ אפשרויות נגישות</h4>
-  <button onclick="document.body.style.fontSize=(parseFloat(getComputedStyle(document.body).fontSize)*1.1)+'px'">הגדל טקסט ➕</button>
-  <button onclick="document.body.style.fontSize=(parseFloat(getComputedStyle(document.body).fontSize)*0.9)+'px'">הקטן טקסט ➖</button>
-  <button onclick="document.body.style.filter=document.body.style.filter?'':'grayscale(1)'">גווני אפור 🌑</button>
-  <button onclick="document.body.style.filter=document.body.style.filter==='contrast(2)'?'':'contrast(2)'">ניגודיות גבוהה ⬛</button>
-  <button onclick="document.body.style.fontFamily=document.body.style.fontFamily?'':'Arial, sans-serif'">גופן קריא 🔤</button>
-  <button onclick="document.getElementById('zappy-a11y-menu').classList.remove('open')">סגור ✕</button>
-</div>
-<script>
-document.addEventListener('click',function(e){
-  var menu=document.getElementById('zappy-a11y-menu');
-  var btn=document.getElementById('zappy-a11y-btn');
-  if(menu&&btn&&!menu.contains(e.target)&&e.target!==btn){menu.classList.remove('open');}
-});
 </script>
 
     <script src="/script.js"></script>

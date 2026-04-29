@@ -1180,7 +1180,19 @@
     <i class="fab fa-whatsapp"></i>
   </a>
   
-  <div data-integration="accessibility:toolbar"></div>
+  <!-- Accessibility widget (Nagish) -->
+<script>
+(function(){
+  if(document.getElementById('zappy-nagish-widget')) return;
+  var s = document.createElement('script');
+  s.id = 'zappy-nagish-widget';
+  s.src = 'https://nagish.co.il/widget/nagish.js';
+  s.async = true;
+  document.head.appendChild(s);
+})();
+</script>
+
+    <div data-integration="accessibility:toolbar"></div>
 <script>
 window.interdeal = {
     "sitekey": "free",
