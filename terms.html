@@ -560,7 +560,7 @@
 
   </div>
 </footer>
-<a href="/accessibility" class="zappy-accessibility-btn" aria-label="הצהרת נגישות" title="נגישות">♿</a>
+<button type="button" class="zappy-accessibility-btn" aria-label="פתח סרגל נגישות" title="נגישות" onclick="if(window.interdeal &amp;&amp; window.interdeal.openWidget){window.interdeal.openWidget();}else if(document.querySelector('#INDmenu-btn')){document.querySelector('#INDmenu-btn').click();}else if(document.querySelector('.ada-accessibility-btn')){document.querySelector('.ada-accessibility-btn').click();}else{window.location.href='/accessibility';}">♿</button>
     <div data-integration="accessibility:toolbar"></div>
 <script>
 window.interdeal = {
