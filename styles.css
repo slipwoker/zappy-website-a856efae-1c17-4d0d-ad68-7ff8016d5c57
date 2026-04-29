@@ -18886,6 +18886,14 @@ main,
     font-size: 0.95rem;
   }
 }
+
+.products-section .product-card .price,
+.products-section .product-card .price a {
+  color: var(--primary) !important;
+  font-size: 1.2rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
