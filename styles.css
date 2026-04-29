@@ -18962,6 +18962,24 @@ main,
 .checkout-section .checkout-place-order-btn:disabled {
   color: #fff !important;
 }
+
+.checkout-section .coupon-toggle-btn {
+  color: var(--primary) !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  text-decoration: underline !important;
+  text-decoration-color: var(--secondary) !important;
+}
+
+.checkout-section .checkout-place-order-btn {
+  color: var(--primary) !important;
+}
+
+.checkout-section .checkout-place-order-btn:disabled {
+  color: var(--primary) !important;
+}
+/* Batch: Make coupon toggle button text visually prominent */
+.coupon-section .coupon-toggle-btn { color: #8E3A67 !important; font-weight: 700 !important; font-size: 16px !important; text-decoration: underline !important; text-decoration-color: #C9A66B !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
