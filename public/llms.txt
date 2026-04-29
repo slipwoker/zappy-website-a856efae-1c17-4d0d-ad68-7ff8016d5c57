@@ -1,91 +1,79 @@
-# Samuel-wigs — Generative Engine Optimization Map
-
-> A wig store website inspired by the style and feel of Gigi Wig — a professional, elegant online destination for wigs. The brand focuses on beauty, hair fashion, and personal transformation, offering customers a refined shopping experience for high-quality wigs.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://samuel-wigs.zappy5.app
+https://www.samuel-wigs.com
 חנות הפאות האונליין המובילה בישראל. קניית פאות איכותיות בישראל מעולם לא הייתה קלה כל כך — עיצובים מרהיבים, שירות מקצועי ומשלוח מהיר לביתך.
 
 ### אודות
-https://samuel-wigs.zappy5.app/about
+https://www.samuel-wigs.com/about
 Samuel-wigs נולדה מתוך אהבה לאופנה ויופי. גלי את הערכים, החזון והמומחיות שהפכו אותנו למותג הפאות האמין והאלגנטי ביותר עבור נשים בישראל.
 
 ### מדריך פאות
-https://samuel-wigs.zappy5.app/wig-guide
+https://www.samuel-wigs.com/wig-guide
 המדריך המקיף לבחירת פאה מושלמת: סוגי שיער, מידות, טיפוח ועוד. Samuel-wigs מעניקה לך את הידע כדי לבצע קניית פאות איכותיות בישראל בביטחון מלא.
 
 ### צור קשר
-https://samuel-wigs.zappy5.app/contact
+https://www.samuel-wigs.com/contact
 יש שאלות? צוות המומחים של Samuel-wigs כאן בשבילך. פני אלינו עוד היום לייעוץ אישי, הזמנות מותאמות ושירות חם שמתחיל מהרגע הראשון.
 
 ### Products
-https://samuel-wigs.zappy5.app/products
+https://www.samuel-wigs.com/products
 המוצרים שלנו - Samuel-wigs
 
 ### Cart
-https://samuel-wigs.zappy5.app/cart
+https://www.samuel-wigs.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://samuel-wigs.zappy5.app/checkout
+https://www.samuel-wigs.com/checkout
 תשלום
 
 ### Login
-https://samuel-wigs.zappy5.app/login
+https://www.samuel-wigs.com/login
 התחברות לקוחות
 
 ### Account
-https://samuel-wigs.zappy5.app/account
+https://www.samuel-wigs.com/account
 החשבון שלי
 
 ### Order Success
-https://samuel-wigs.zappy5.app/order-success
+https://www.samuel-wigs.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://samuel-wigs.zappy5.app/product/:slug
+https://www.samuel-wigs.com/product/:slug
 פרטי המוצר - Samuel-wigs
 
 ### Category
-https://samuel-wigs.zappy5.app/category/:slug
+https://www.samuel-wigs.com/category/:slug
 מוצרים - Samuel-wigs
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://samuel-wigs.zappy5.app/privacy
+https://www.samuel-wigs.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://samuel-wigs.zappy5.app/terms
+https://www.samuel-wigs.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://samuel-wigs.zappy5.app/accessibility
+https://www.samuel-wigs.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Samuel-wigs
-A wig store website inspired by the style and feel of Gigi Wig — a professional, elegant online destination for wigs. The brand focuses on beauty, hair fashion, and personal transformation, offering customers a refined shopping experience for high-quality wigs.
-
-## Services/Products
-- מכירת פאות
-
-## Target Audience
-
-## Industry
-אופנה ויופי
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://samuel-wigs.zappy5.app/sitemap.xml
-- **Robots.txt**: https://samuel-wigs.zappy5.app/robots.txt
+- **Sitemap**: https://www.samuel-wigs.com/sitemap.xml
+- **Robots.txt**: https://www.samuel-wigs.com/robots.txt
