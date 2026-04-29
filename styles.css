@@ -18894,6 +18894,41 @@ main,
   font-weight: 700 !important;
   letter-spacing: 0.5px !important;
 }
+
+.checkout-section .coupon-toggle-btn {
+  color: var(--primary) !important;
+  font-weight: 600 !important;
+  border: 1.5px solid var(--primary) !important;
+  background: transparent !important;
+  border-radius: 8px !important;
+  padding: 8px 16px !important;
+}
+
+.checkout-section .coupon-toggle-btn:hover {
+  background: var(--primary) !important;
+  color: #fff !important;
+}
+
+.checkout-section .checkout-place-order-btn {
+  background: var(--primary) !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  font-size: 17px !important;
+  border: none !important;
+  opacity: 1 !important;
+}
+
+.checkout-section .checkout-place-order-btn:disabled {
+  background: var(--primary) !important;
+  opacity: 0.65 !important;
+  color: #fff !important;
+}
+
+.checkout-section .checkout-place-order-btn:hover:not(:disabled) {
+  background: #7a2f57 !important;
+  transform: translateY(-1px) !important;
+  box-shadow: var(--shadow-btn-hover) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
