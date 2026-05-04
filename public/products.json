@@ -1,0 +1,493 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-05-04T14:13:09.109Z",
+  "base_url": "https://www.samuel-wigs.com",
+  "currency": "ILS",
+  "count": 20,
+  "products": [
+    {
+      "id": "49a932bf-24d0-455f-931a-e20644e67413",
+      "slug": "dbk-dv-tsddy-lpavt-tchrh-d0ebyt",
+      "name": "דבק דו צדדי לפאות תחרה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סרט הדבקה חזק ואיכותי המעניק אחיזה יציבה ונוחה לפאה לאורך זמן.מיועד ללבישה ממושכת של הפאה עד מספר שבועות.\nמתאים ל כל סוגי פאות תחרה ופרונטל, מעניק הצמדה יציבה ומראה טבעי לאורך זמן. \n✔ עמיד לאורך זמן\n✔ אחיזה חזקה במיוחד\n✔ מתאים לשימוש ממושך\n✔ קל להדבקה ולהסרה.",
+      "sku": null,
+      "brand": null,
+      "price": 160,
+      "base_price": 160,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777743934312-abh2u2.webp",
+        "https://www.samuel-wigs.com/assets/product-1777743944644-6svjvc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-05-02T17:46:22.203Z"
+    },
+    {
+      "id": "56c24545-a77f-4276-bcaf-aa4af5096552",
+      "slug": "mchlyk-msrk-chm-u39a6q",
+      "name": "מחליק מסרק חם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מחליק ומסדר את השיער בקלות, מושלם להשטחת שורשים, בייביהיירס ועיצוב קו שיער נקי ומדויק.\nמתחמם במהירות ומעניק מראה חלק ומסודר ללא מאמץ.\n✔ מתאים לפאות ושיער טבעי\n✔ אידיאלי לעיצוב בייביהיירס ושורשים\n✔ חימום מהיר ונוח לשימוש\n✔ מעניק מראה חלק ומקצועי\n\nהוראות שימוש:\nלהדליק את המכשיר, להמתין לחימום ולעבור בעדינות על השיער לפי הצורך. מומלץ להשתמש עם מגן חום.ווקס סטיק לעיצוב השיער",
+      "sku": null,
+      "brand": null,
+      "price": 350,
+      "base_price": 350,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777739912255-0cfw0h.webp",
+        "https://www.samuel-wigs.com/assets/product-1777739925387-fxuhdl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/mchlyk-msrk-chm-u39a6q",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-05-02T17:53:22.453Z"
+    },
+    {
+      "id": "d5462388-7e28-4d9c-9920-ea5afc9e779a",
+      "slug": "dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y",
+      "name": " דבק לפאות תחרה  30  מ\"ל  Bold Hold    ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "דבק מקצועי ואיכותי המיועד להתקנת פאה תחרה עם אחיזה חזקה, עמידות גבוהה ומראה טבעי ונקי.\nהפורמולה מתייבשת לשקוף, עמידה בלחות ומתאימה לכל סוגי עור \n✔ אחיזה חזקה במיוחד\n✔ מתייבש שקוף למראה טבעי\n✔ עמיד בלחות וזיעה\n✔ ללא ריח חזק\n✔ מתאים לפאות תחרה {פרונטל,קלוז'ר,360, פול לייס}\n✔ עמיד למספר שבועות\nאופן שימוש:\nיש למרוח שכבות דקות על קו השיער, להמתין לייבוש שקוף בין שכבה לשכבה, ולאחר מכן להצמיד את הפאה.\nלתוצאה מיטבית מומלץ לייבש עם פן על אוויר קר.",
+      "sku": null,
+      "brand": null,
+      "price": 160,
+      "base_price": 160,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777738763269-0nucfn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-05-02T16:55:18.316Z"
+    },
+    {
+      "id": "425cf3e7-63cf-4f9e-b5ce-d8dd7c17bff1",
+      "slug": "msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj",
+      "name": "מסיר דבק ותוספות שיער Tape  ih ימקצועי  (Remover) – 30 מ\"ל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הסרה קלה ומהירה ללא כאב וללא סימנים.מסיר עוצמתי הממיס דבק פאות (Lace) וסרטי הדבקה (Tape-in) תוך שניות. שומר על הקרקפת ועל שלמות השיער הטבעי.יעילות: פירוק דבק מהיר ויסודי.בטיחות: נוסחה עדינה המונעת גירויים.תוצאה: מותיר את העור והפאה נקיים מדביקות\nהוראות שימוש:מריחה: טפטפו  כמות נדיבה מהחומר ישירות על קו ההדבקה (בחיבור שבין הפאה/התוספת לעור).המתנה: המתינו  2-3 דקות כדי לאפשר לחומר להמיס את הדבק.הסרה: הרימו בעדינות את קצה הפאה. אם מורגשת התנגדות כלשהי תוספי מעט מחומר והמתיני דקה נוספת עד לשחרור מלא",
+      "sku": null,
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777737685016-jexr8r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-05-02T17:11:27.020Z"
+    },
+    {
+      "id": "d127095a-bbaa-4b7b-b9c6-2a05ea8ee98a",
+      "slug": "spryy-dbk-lpah-vlshyar-500-ml-zeeiyu",
+      "name": "ספריי דבק לפאה ולשיער 500 מ\"ל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ספריי דבק לפאת תחרה קיבוע מהיר, נוח וטבעי למראה מושלם. מעניק אחיזה עדינה אך יציבה, מצמיד את התחרה לקרקפת ויוצר גימור חלק, נקי ובלתי נראה.\nהנוסחה הקלילה מתייבשת במהירות, אינה מכבידה על השיער ומתמזגת בצורה אחידה עם גוון העור. מתאים גם לעיצוב השיער ולשמירה על התסרוקת, עם עמידות לאורך כל היום.\nעדין לקו השיער ולקרקפת, שומר על השיער הטבעי ומתאים גם להתקנה ללא דבק או לחיזוק נוסף מעל דבק קיים.\nטיפ: לרסס שכבה אחידה ולייבש עם פן לפני הצמדת התחרה – לתוצאה חלקה, מדויקת ועמידה יותר",
+      "sku": null,
+      "brand": null,
+      "price": 220,
+      "base_price": 340,
+      "sale_price": 220,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777477969310-nlxkj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-04-29T16:38:12.985Z"
+    },
+    {
+      "id": "26da3f05-a6c2-46f2-8008-6d80ae217062",
+      "slug": "vvks-styk-lpah-vlshyar-33t1a5",
+      "name": "ווקס סטיק לפאה ולשיער",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ווקס סטיק ייחודי המתאים במיוחד גם לשיער טבעי וגם לפאות, ליצירת מראה מוקפד, חלק ומסודר – בלי מאמץ.\nמחליק שוונצים בקלות, מצמיד שיערות סוררות ומאפשר שליטה מלאה בעיצוב, כולל הורדת נפח מאזור השורש לקבלת גימור נקי ומקצועי.\nהפורמולה הקלילה מעניקה מראה טבעי ולא שומני, שומרת על השיער במקומו לאורך כל היום – בלי תחושת נוקשות או דביקות.\nמושלם לשימוש על שיער אסוף, קוקו, בייביהיירס וגם לפני עיצוב בחום למראה חלק, מבריק ומטופח.\nמכיל רכיבים טבעיים המסייעים בטיפוח ושיקום השיער, \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "sku": null,
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777737924555-t6u0cr.webp",
+        "https://www.samuel-wigs.com/assets/product-1777737937592-ihprms.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/vvks-styk-lpah-vlshyar-33t1a5",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-05-02T17:14:58.255Z"
+    },
+    {
+      "id": "0d4878fc-83f4-4e3c-88da-244c627f8983",
+      "slug": "srt-mvna-hchlkh-lpah-zoicsy",
+      "name": "סרט מונע החלקה לפאה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תכונות ושימושים:\nמניעת החלקה: רצועה סרט מבד קטיפה המייצרים חיכוך עם עור הקרקפת והפאה, ובכך מונעים תזוזה לא רצויה.\nרצועת תחרה (Lace): במרכז וקו השיער מאוזן לאוזן הרצועה משולב קטע של תחרה שוויצרית עדינה. חלק זה נועד לשבת מתחת לקו השיער של פאת \"לייס\" (Lace Wig) כדי להעניק מראה טבעי יותר ולהסתיר את הרצועה.\nהתאמה אישית: הרצועה כוללת סגירת סקוטש (Velcro) המאפשרת כוונון של ההידוק לפי מידת הראש.\nצבעים: היא זמינה בצבע ניוד  כדי להיטמע בצורה מיטבית תחת הפאה. ",
+      "sku": null,
+      "brand": null,
+      "price": 130,
+      "base_price": 130,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777300785698-5e6b1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/srt-mvna-hchlkh-lpah-zoicsy",
+      "categories": [
+        "מוצרים נלווים לפאה"
+      ],
+      "updated_at": "2026-05-02T17:17:14.920Z"
+    },
+    {
+      "id": "01ff1bc1-d566-450f-9bab-2bb8bc60d03c",
+      "slug": "pah-mtvltlt-karh-y4i3w4",
+      "name": "פאה מתולתלת קארה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 14\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 2250,
+      "base_price": 2250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp",
+        "https://www.samuel-wigs.com/assets/product-1777307911790-tvscdm.webp",
+        "https://www.samuel-wigs.com/assets/product-1777307915221-0qhm4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-karh-y4i3w4",
+      "categories": [],
+      "updated_at": "2026-04-29T14:26:41.892Z"
+    },
+    {
+      "id": "26fc2e8c-8396-4463-8480-6b9f766614f1",
+      "slug": "pah-karh-chlkh-f1n5r4",
+      "name": "פאה קארה חלקה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 14\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 2250,
+      "base_price": 2250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954674935-i198v6.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308730519-zujpkf.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308733881-fnq0zu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-karh-chlkh-f1n5r4",
+      "categories": [],
+      "updated_at": "2026-04-29T14:29:49.897Z"
+    },
+    {
+      "id": "dba815f1-9f80-4805-bb0d-b60b936faaa5",
+      "slug": "pah-gly-tbayt-gnq9ar",
+      "name": "פאה גלי טבעית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 22\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 2850,
+      "base_price": 2850,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954555171-5fj8v.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308908962-upmogi.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308912401-e8lr95.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-gnq9ar",
+      "categories": [],
+      "updated_at": "2026-04-29T14:29:11.173Z"
+    },
+    {
+      "id": "d80c239f-2077-4175-bf6e-95b7f83bc2c0",
+      "slug": "pah-chlkh-tbayt-v28ooh",
+      "name": "פאה חלקה טבעית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 22\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 2850,
+      "base_price": 2850,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954464232-qad2nk.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308935585-b8riuw.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308939239-crmeuv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-chlkh-tbayt-v28ooh",
+      "categories": [],
+      "updated_at": "2026-04-29T14:31:01.657Z"
+    },
+    {
+      "id": "7728b39c-397f-4c73-9175-3d936c3263d5",
+      "slug": "pah-chlkh-pvny-arvkh-dj9vii",
+      "name": "פאה חלקה פוני ארוכה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 5850,
+      "base_price": 5850,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954406439-noh7d.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309059621-f8d3c7.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309062554-kbp13m.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-chlkh-pvny-arvkh-dj9vii",
+      "categories": [],
+      "updated_at": "2026-04-29T14:31:54.120Z"
+    },
+    {
+      "id": "068b6612-124e-4045-9be9-8696453e04aa",
+      "slug": "pah-gly-tbayt-copy-v45e5t",
+      "name": "פאה גלי טבעית  (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 20\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות וחצי + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 3350,
+      "base_price": 3350,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954318641-xlgdu8.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309132490-1nqc3f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-copy-v45e5t",
+      "categories": [
+        "פאות במשלוח מהיר לבית 7 ימי עסקים"
+      ],
+      "updated_at": "2026-05-03T10:58:04.885Z"
+    },
+    {
+      "id": "5e84f676-bd35-47ae-ad81-78ff6ab7d9a7",
+      "slug": "pah-gly-tbayt-jhd17k",
+      "name": "פאה גלי טבעית ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 20\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות וחצי + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 3350,
+      "base_price": 3350,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954318641-xlgdu8.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309132490-1nqc3f.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309135732-mjsn9n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-jhd17k",
+      "categories": [],
+      "updated_at": "2026-04-29T14:33:17.769Z"
+    },
+    {
+      "id": "1935b1cc-7ff9-4f7a-a9c9-bea7ecc6dfa5",
+      "slug": "pah-mtvltlt-arvkh-th63t2",
+      "name": "פאה מתולתלת ארוכה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 5650,
+      "base_price": 5650,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954229843-2c1ebbd.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309231472-abxma4.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309234951-1d3ylu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-th63t2",
+      "categories": [],
+      "updated_at": "2026-04-29T14:34:08.474Z"
+    },
+    {
+      "id": "88855c69-5e4b-424b-b210-2bdb38979368",
+      "slug": "pah-gly-pvny-pcjvfq",
+      "name": "פאה גלי פוני",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 26\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 4150,
+      "base_price": 4150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777124244756-uztixn.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309533669-j4bgl.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309536971-ghanff.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-pcjvfq",
+      "categories": [],
+      "updated_at": "2026-04-29T14:35:07.091Z"
+    },
+    {
+      "id": "3c1bde5e-caee-486d-a71e-8841b4e9710f",
+      "slug": "pah-chlkh-arvkh-k5onyo",
+      "name": "פאה חלקה ארוכה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 5650,
+      "base_price": 5650,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776953595712-00wud.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309651223-2w4lpm.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309654714-blupx9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-chlkh-arvkh-k5onyo",
+      "categories": [],
+      "updated_at": "2026-04-29T14:36:02.337Z"
+    },
+    {
+      "id": "732aa1d9-410a-44ed-94c2-f8d2fc5a7fe4",
+      "slug": "pah-gly-arvkh-n5798p",
+      "name": "פאה גלי ארוכה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 5650,
+      "base_price": 5650,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776953397303-0e5qgk.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309751036-u5lq8c.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309754550-c3ah9lv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-arvkh-n5798p",
+      "categories": [],
+      "updated_at": "2026-04-29T14:36:56.525Z"
+    },
+    {
+      "id": "d6ac083d-9f8f-40fe-b3f8-7ed1c0d5deae",
+      "slug": "pah-gly-btsba-chvm-k544xs",
+      "name": "פאה גלי בצבע חום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי \nכמות שיער :2 חבילות וחצי + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 6150,
+      "base_price": 6150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776953066123-p55sy.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309864623-2gabbc.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309867723-gde0gh.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-btsba-chvm-k544xs",
+      "categories": [],
+      "updated_at": "2026-04-29T14:37:54.938Z"
+    },
+    {
+      "id": "f534a01d-7e92-4430-b671-e40fb3c486db",
+      "slug": "pah-chlkh-riubmz",
+      "name": "פאה חלקה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אורך 16\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "sku": null,
+      "brand": null,
+      "price": 2450,
+      "base_price": 2450,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-autofit-1776939762265-5mhb9.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309936753-x24yq.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309940305-9d0wxr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-chlkh-riubmz",
+      "categories": [],
+      "updated_at": "2026-04-29T14:38:35.844Z"
+    }
+  ]
+}

@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Samuel-wigs — Generative Engine Optimization Map
+
+> A wig store website inspired by the style and feel of Gigi Wig — a professional, elegant online destination for wigs. The brand focuses on beauty, hair fashion, and personal transformation, offering customers a refined shopping experience for high-quality wigs.
 
 ---
 
@@ -68,12 +70,179 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+**Total active products: 20**
+
+### דבק דו צדדי לפאות תחרה
+https://www.samuel-wigs.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt
+- Price: 160.00 ILS
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: סרט הדבקה חזק ואיכותי המעניק אחיזה יציבה ונוחה לפאה לאורך זמן.מיועד ללבישה ממושכת של הפאה עד מספר שבועות. מתאים ל כל סוגי פאות תחרה ופרונטל, מעניק הצמדה יציבה ומראה טבעי לאורך זמן. ✔ עמיד לאורך זמן ✔ אחיזה חזקה במיוחד ✔ מתאים לשימוש ממושך ✔ קל להדבקה ולהסרה.
+- Image: https://www.samuel-wigs.com/assets/product-1777743934312-abh2u2.webp
+
+### מחליק מסרק חם
+https://www.samuel-wigs.com/product/mchlyk-msrk-chm-u39a6q
+- Price: 350.00 ILS
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: מחליק ומסדר את השיער בקלות, מושלם להשטחת שורשים, בייביהיירס ועיצוב קו שיער נקי ומדויק. מתחמם במהירות ומעניק מראה חלק ומסודר ללא מאמץ. ✔ מתאים לפאות ושיער טבעי ✔ אידיאלי לעיצוב בייביהיירס ושורשים ✔ חימום מהיר ונוח לשימוש ✔ מעניק מראה חלק ומקצועי הוראות שימוש: להדליק את המכשיר, להמתין לחימום ולעבור בעדינות על השיער לפי הצורך. מומלץ להשתמש עם מגן חום.ווקס סטיק לעיצוב השיער
+- Image: https://www.samuel-wigs.com/assets/product-1777739912255-0cfw0h.webp
+
+###  דבק לפאות תחרה  30  מ"ל  Bold Hold    
+https://www.samuel-wigs.com/product/dbk-lpavt-tchrh-30-ml-bold-hold-p8f86y
+- Price: 160.00 ILS
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: דבק מקצועי ואיכותי המיועד להתקנת פאה תחרה עם אחיזה חזקה, עמידות גבוהה ומראה טבעי ונקי. הפורמולה מתייבשת לשקוף, עמידה בלחות ומתאימה לכל סוגי עור ✔ אחיזה חזקה במיוחד ✔ מתייבש שקוף למראה טבעי ✔ עמיד בלחות וזיעה ✔ ללא ריח חזק ✔ מתאים לפאות תחרה {פרונטל,קלוז'ר,360, פול לייס} ✔ עמיד למספר שבועות אופן שימוש: יש למרוח שכבות דקות על קו השיער, להמתין לייבוש שקוף בין שכבה לשכבה, ולאחר מכן להצמיד את הפאה. לתוצאה מיטבית מומלץ לייבש עם פן על אוויר קר.
+- Image: https://www.samuel-wigs.com/assets/product-1777738763269-0nucfn.webp
+
+### מסיר דבק ותוספות שיער Tape  ih ימקצועי  (Remover) – 30 מ"ל
+https://www.samuel-wigs.com/product/msyr-dbk-vtvspvt-shyar-tape-ih-ymktsvay-remover-30-ml-t2pxjj
+- Price: 75.00 ILS
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: הסרה קלה ומהירה ללא כאב וללא סימנים.מסיר עוצמתי הממיס דבק פאות (Lace) וסרטי הדבקה (Tape-in) תוך שניות. שומר על הקרקפת ועל שלמות השיער הטבעי.יעילות: פירוק דבק מהיר ויסודי.בטיחות: נוסחה עדינה המונעת גירויים.תוצאה: מותיר את העור והפאה נקיים מדביקות הוראות שימוש:מריחה: טפטפו כמות נדיבה מהחומר ישירות על קו ההדבקה (בחיבור שבין הפאה/התוספת לעור).המתנה: המתינו 2-3 דקות כדי לאפשר לחומר להמיס את הדבק.הסרה: הרימו בעדינות את קצה הפאה. אם מורגשת התנגדות כלשהי תוספי מעט מחומר והמתיני דקה נוספת עד לשחרור מלא
+- Image: https://www.samuel-wigs.com/assets/product-1777737685016-jexr8r.webp
+
+### ספריי דבק לפאה ולשיער 500 מ"ל
+https://www.samuel-wigs.com/product/spryy-dbk-lpah-vlshyar-500-ml-zeeiyu
+- Price: 220.00 ILS (sale, was 340.00 ILS)
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: ספריי דבק לפאת תחרה קיבוע מהיר, נוח וטבעי למראה מושלם. מעניק אחיזה עדינה אך יציבה, מצמיד את התחרה לקרקפת ויוצר גימור חלק, נקי ובלתי נראה. הנוסחה הקלילה מתייבשת במהירות, אינה מכבידה על השיער ומתמזגת בצורה אחידה עם גוון העור. מתאים גם לעיצוב השיער ולשמירה על התסרוקת, עם עמידות לאורך כל היום. עדין לקו השיער ולקרקפת, שומר על השיער הטבעי ומתאים גם להתקנה ללא דבק או לחיזוק נוסף מעל דבק קיים. טיפ: לרסס שכבה אחידה ולייבש עם פן לפני הצמדת התחרה – לתוצאה חלקה, מדויקת ועמידה יותר
+- Image: https://www.samuel-wigs.com/assets/product-1777477969310-nlxkj.webp
+
+### ווקס סטיק לפאה ולשיער
+https://www.samuel-wigs.com/product/vvks-styk-lpah-vlshyar-33t1a5
+- Price: 75.00 ILS
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: ווקס סטיק ייחודי המתאים במיוחד גם לשיער טבעי וגם לפאות, ליצירת מראה מוקפד, חלק ומסודר – בלי מאמץ. מחליק שוונצים בקלות, מצמיד שיערות סוררות ומאפשר שליטה מלאה בעיצוב, כולל הורדת נפח מאזור השורש לקבלת גימור נקי ומקצועי. הפורמולה הקלילה מעניקה מראה טבעי ולא שומני, שומרת על השיער במקומו לאורך כל היום – בלי תחושת נוקשות או דביקות. מושלם לשימוש על שיער אסוף, קוקו, בייביהיירס וגם לפני עיצוב בחום למראה חלק, מבריק ומטופח. מכיל רכיבים טבעיים המסייעים בטיפוח ושיקום השיער,
+- Image: https://www.samuel-wigs.com/assets/product-1777737924555-t6u0cr.webp
+
+### סרט מונע החלקה לפאה
+https://www.samuel-wigs.com/product/srt-mvna-hchlkh-lpah-zoicsy
+- Price: 130.00 ILS
+- Availability: In stock
+- Category: מוצרים נלווים לפאה
+- Description: תכונות ושימושים: מניעת החלקה: רצועה סרט מבד קטיפה המייצרים חיכוך עם עור הקרקפת והפאה, ובכך מונעים תזוזה לא רצויה. רצועת תחרה (Lace): במרכז וקו השיער מאוזן לאוזן הרצועה משולב קטע של תחרה שוויצרית עדינה. חלק זה נועד לשבת מתחת לקו השיער של פאת "לייס" (Lace Wig) כדי להעניק מראה טבעי יותר ולהסתיר את הרצועה. התאמה אישית: הרצועה כוללת סגירת סקוטש (Velcro) המאפשרת כוונון של ההידוק לפי מידת הראש. צבעים: היא זמינה בצבע ניוד כדי להיטמע בצורה מיטבית תחת הפאה.
+- Image: https://www.samuel-wigs.com/assets/product-1777300785698-5e6b1.webp
+
+### פאה מתולתלת קארה
+https://www.samuel-wigs.com/product/pah-mtvltlt-karh-y4i3w4
+- Price: 2250.00 ILS
+- Availability: In stock
+- Description: אורך 14 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp
+
+### פאה קארה חלקה
+https://www.samuel-wigs.com/product/pah-karh-chlkh-f1n5r4
+- Price: 2250.00 ILS
+- Availability: In stock
+- Description: אורך 14 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954674935-i198v6.webp
+
+### פאה גלי טבעית
+https://www.samuel-wigs.com/product/pah-gly-tbayt-gnq9ar
+- Price: 2850.00 ILS
+- Availability: In stock
+- Description: אורך 22 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954555171-5fj8v.webp
+
+### פאה חלקה טבעית
+https://www.samuel-wigs.com/product/pah-chlkh-tbayt-v28ooh
+- Price: 2850.00 ILS
+- Availability: In stock
+- Description: אורך 22 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954464232-qad2nk.webp
+
+### פאה חלקה פוני ארוכה
+https://www.samuel-wigs.com/product/pah-chlkh-pvny-arvkh-dj9vii
+- Price: 5850.00 ILS
+- Availability: In stock
+- Description: אורך 30 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954406439-noh7d.webp
+
+### פאה גלי טבעית  (Copy)
+https://www.samuel-wigs.com/product/pah-gly-tbayt-copy-v45e5t
+- Price: 3350.00 ILS
+- Availability: In stock
+- Category: פאות במשלוח מהיר לבית 7 ימי עסקים
+- Description: אורך 20 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות וחצי + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954318641-xlgdu8.webp
+
+### פאה גלי טבעית 
+https://www.samuel-wigs.com/product/pah-gly-tbayt-jhd17k
+- Price: 3350.00 ILS
+- Availability: In stock
+- Description: אורך 20 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות וחצי + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954318641-xlgdu8.webp
+
+### פאה מתולתלת ארוכה
+https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-th63t2
+- Price: 5650.00 ILS
+- Availability: In stock
+- Description: אורך 30 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776954229843-2c1ebbd.webp
+
+### פאה גלי פוני
+https://www.samuel-wigs.com/product/pah-gly-pvny-pcjvfq
+- Price: 4150.00 ILS
+- Availability: In stock
+- Description: אורך 26 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1777124244756-uztixn.webp
+
+### פאה חלקה ארוכה
+https://www.samuel-wigs.com/product/pah-chlkh-arvkh-k5onyo
+- Price: 5650.00 ILS
+- Availability: In stock
+- Description: אורך 30 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776953595712-00wud.webp
+
+### פאה גלי ארוכה
+https://www.samuel-wigs.com/product/pah-gly-arvkh-n5798p
+- Price: 5650.00 ILS
+- Availability: In stock
+- Description: אורך 30 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776953397303-0e5qgk.webp
+
+### פאה גלי בצבע חום
+https://www.samuel-wigs.com/product/pah-gly-btsba-chvm-k544xs
+- Price: 6150.00 ILS
+- Availability: Out of stock
+- Description: אורך 30 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי כמות שיער :2 חבילות וחצי + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-1776953066123-p55sy.webp
+
+### פאה חלקה
+https://www.samuel-wigs.com/product/pah-chlkh-riubmz
+- Price: 2450.00 ILS
+- Availability: In stock
+- Description: אורך 16 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
+- Image: https://www.samuel-wigs.com/assets/product-autofit-1776939762265-5mhb9.webp
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://www.samuel-wigs.com/sitemap.xml
-- **Robots.txt**: https://www.samuel-wigs.com/robots.txt
+## About Samuel-wigs
+A wig store website inspired by the style and feel of Gigi Wig — a professional, elegant online destination for wigs. The brand focuses on beauty, hair fashion, and personal transformation, offering customers a refined shopping experience for high-quality wigs.
+
+## Services/Products
+- מכירת פאות
+
+## Target Audience
+
+## Industry
+אופנה ויופי
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://www.samuel-wigs.com/sitemap.xml
+- Robots: https://www.samuel-wigs.com/robots.txt
+- Flattened page text (for LLMs): https://www.samuel-wigs.com/llms-full.txt
+- Products (JSON): https://www.samuel-wigs.com/products.json
+- Products (Google Merchant RSS): https://www.samuel-wigs.com/product-feed.xml
