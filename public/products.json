@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T10:15:33.742Z",
+  "generated_at": "2026-05-06T11:11:35.646Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
-  "count": 21,
+  "count": 22,
   "products": [
     {
       "id": "49a932bf-24d0-455f-931a-e20644e67413",
@@ -175,6 +175,30 @@
         "מוצרים נלווים לפאה"
       ],
       "updated_at": "2026-05-02T17:17:14.920Z"
+    },
+    {
+      "id": "11a0c3e5-16cd-4562-96c9-41fb735d2255",
+      "slug": "pah-mtvltlt-karh-copy-rvgat4",
+      "name": "פאה מתולתלת קארה (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 2250,
+      "base_price": 2250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp",
+        "https://www.samuel-wigs.com/assets/product-1777307911790-tvscdm.webp",
+        "https://www.samuel-wigs.com/assets/product-1777307915221-0qhm4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-karh-copy-rvgat4",
+      "categories": [],
+      "updated_at": "2026-05-06T11:11:04.840Z"
     },
     {
       "id": "01ff1bc1-d566-450f-9bab-2bb8bc60d03c",

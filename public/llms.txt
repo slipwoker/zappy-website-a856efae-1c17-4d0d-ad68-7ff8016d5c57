@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 21**
+**Total active products: 22**
 
 ### דבק דו צדדי לפאות תחרה
 https://www.samuel-wigs.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt
@@ -129,6 +129,12 @@ https://www.samuel-wigs.com/product/srt-mvna-hchlkh-lpah-zoicsy
 - Category: מוצרים נלווים לפאה
 - Description: תכונות ושימושים: מניעת החלקה: רצועה סרט מבד קטיפה המייצרים חיכוך עם עור הקרקפת והפאה, ובכך מונעים תזוזה לא רצויה. רצועת תחרה (Lace): במרכז וקו השיער מאוזן לאוזן הרצועה משולב קטע של תחרה שוויצרית עדינה. חלק זה נועד לשבת מתחת לקו השיער של פאת "לייס" (Lace Wig) כדי להעניק מראה טבעי יותר ולהסתיר את הרצועה. התאמה אישית: הרצועה כוללת סגירת סקוטש (Velcro) המאפשרת כוונון של ההידוק לפי מידת הראש. צבעים: היא זמינה בצבע ניוד כדי להיטמע בצורה מיטבית תחת הפאה.
 - Image: https://www.samuel-wigs.com/assets/product-1777300785698-5e6b1.webp
+
+### פאה מתולתלת קארה (Copy)
+https://www.samuel-wigs.com/product/pah-mtvltlt-karh-copy-rvgat4
+- Price: 2250.00 ILS
+- Availability: In stock
+- Image: https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp
 
 ### פאה מתולתלת קארה
 https://www.samuel-wigs.com/product/pah-mtvltlt-karh-y4i3w4
