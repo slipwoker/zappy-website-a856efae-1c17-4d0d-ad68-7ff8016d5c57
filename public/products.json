@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T11:17:18.976Z",
+  "generated_at": "2026-05-06T11:23:43.866Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
-  "count": 22,
+  "count": 23,
   "products": [
     {
       "id": "49a932bf-24d0-455f-931a-e20644e67413",
@@ -223,6 +223,30 @@
       "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-karh-y4i3w4",
       "categories": [],
       "updated_at": "2026-04-29T14:26:41.892Z"
+    },
+    {
+      "id": "0dbc867f-ad39-468e-a26d-7730692cc7f0",
+      "slug": "pah-karh-chlkh-copy-5jv01m",
+      "name": "פאה קארה חלקה (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 2250,
+      "base_price": 2250,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1776954674935-i198v6.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308730519-zujpkf.webp",
+        "https://www.samuel-wigs.com/assets/product-1777308733881-fnq0zu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-karh-chlkh-copy-5jv01m",
+      "categories": [],
+      "updated_at": "2026-05-06T11:23:13.072Z"
     },
     {
       "id": "26fc2e8c-8396-4463-8480-6b9f766614f1",

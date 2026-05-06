@@ -4,7 +4,7 @@
     <title>Samuel-wigs</title>
     <link>https://www.samuel-wigs.com</link>
     <description>Product feed for Samuel-wigs</description>
-    <lastBuildDate>Wed, 06 May 2026 11:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:23:43 GMT</lastBuildDate>
     <item>
       <g:id>49a932bf-24d0-455f-931a-e20644e67413</g:id>
       <g:title>דבק דו צדדי לפאות תחרה</g:title>
@@ -121,6 +121,20 @@
       <g:image_link>https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp</g:image_link>
       <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777307911790-tvscdm.webp</g:additional_image_link>
       <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777307915221-0qhm4.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>2250.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Samuel-wigs</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>0dbc867f-ad39-468e-a26d-7730692cc7f0</g:id>
+      <g:title>פאה קארה חלקה (Copy)</g:title>
+      <g:description>פאה קארה חלקה (Copy)</g:description>
+      <g:link>https://www.samuel-wigs.com/product/pah-karh-chlkh-copy-5jv01m</g:link>
+      <g:image_link>https://www.samuel-wigs.com/assets/product-1776954674935-i198v6.webp</g:image_link>
+      <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777308730519-zujpkf.webp</g:additional_image_link>
+      <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777308733881-fnq0zu.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>2250.00 ILS</g:price>
       <g:condition>new</g:condition>
