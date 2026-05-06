@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T11:26:23.366Z",
+  "generated_at": "2026-05-06T11:37:19.089Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 23,
@@ -419,7 +419,7 @@
     },
     {
       "id": "6de74b03-733b-4e6f-b280-f65362ce0d95",
-      "slug": "pah-gly-pvny-bvbh-ydnnzb",
+      "slug": "pah-gly-pvny-bvbh-y15ut4",
       "name": "פאה גלי פוני בובה",
       "name_translations": {},
       "description": "",
@@ -436,11 +436,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-bvbh-ydnnzb",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-bvbh-y15ut4",
       "categories": [
         "פאות במשלוח מהיר לבית 7 ימי עסקים"
       ],
-      "updated_at": "2026-05-06T11:16:48.160Z"
+      "updated_at": "2026-05-06T11:36:48.317Z"
     },
     {
       "id": "88855c69-5e4b-424b-b210-2bdb38979368",
