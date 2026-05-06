@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T10:10:32.730Z",
+  "generated_at": "2026-05-06T10:13:43.933Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 21,
@@ -371,11 +371,11 @@
     },
     {
       "id": "6de74b03-733b-4e6f-b280-f65362ce0d95",
-      "slug": "pah-gly-pvny-bvbh-eundfc",
+      "slug": "pah-gly-pvny-bvbh-9rull9",
       "name": "פאה גלי פוני בובה",
       "name_translations": {},
       "description": "",
-      "short_description": "אורך 26\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "short_description": "אורך 26\nסוג תחרה: שווצרית קלו'זר 5×5\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
       "sku": null,
       "brand": null,
       "price": 4150,
@@ -384,15 +384,15 @@
       "currency": "ILS",
       "images": [
         "https://www.samuel-wigs.com/assets/product-1777124244756-uztixn.webp",
-        "https://www.samuel-wigs.com/assets/product-1777309533669-j4bgl.webp"
+        "https://www.samuel-wigs.com/assets/product-1778062384857-vwde8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-bvbh-eundfc",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-bvbh-9rull9",
       "categories": [
         "פאות במשלוח מהיר לבית 7 ימי עסקים"
       ],
-      "updated_at": "2026-05-06T10:10:01.949Z"
+      "updated_at": "2026-05-06T10:13:13.164Z"
     },
     {
       "id": "88855c69-5e4b-424b-b210-2bdb38979368",
