@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T11:40:28.323Z",
+  "generated_at": "2026-05-06T11:42:32.433Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 23,
@@ -227,11 +227,11 @@
     },
     {
       "id": "0dbc867f-ad39-468e-a26d-7730692cc7f0",
-      "slug": "pah-karh-chlkh-2dfqk5",
+      "slug": "pah-karh-chlkh-klwzzx",
       "name": "פאה קארה חלקה ",
       "name_translations": {},
       "description": "",
-      "short_description": "אורך 14\nסוג תחרה: שווצרית קלוז'ר\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + קלוז'ר\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "short_description": "אורך 14\nסוג תחרה: שווצרית קלוז'ר 5×5\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + קלוז'ר\nפאה מגיעה מוכנה עם גומי וסיכות",
       "sku": null,
       "brand": null,
       "price": 2250,
@@ -239,15 +239,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://www.samuel-wigs.com/assets/product-1776954674935-i198v6.webp"
+        "https://www.samuel-wigs.com/assets/product-1776954674935-i198v6.webp",
+        "https://www.samuel-wigs.com/assets/product-1778067637583-ysnty.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-karh-chlkh-2dfqk5",
+      "url": "https://www.samuel-wigs.com/product/pah-karh-chlkh-klwzzx",
       "categories": [
         "פאות במשלוח מהיר לבית 7 ימי עסקים"
       ],
-      "updated_at": "2026-05-06T11:25:52.458Z"
+      "updated_at": "2026-05-06T11:42:01.684Z"
     },
     {
       "id": "26fc2e8c-8396-4463-8480-6b9f766614f1",
