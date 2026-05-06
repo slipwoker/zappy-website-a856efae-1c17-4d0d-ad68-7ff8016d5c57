@@ -4,7 +4,7 @@
     <title>Samuel-wigs</title>
     <link>https://www.samuel-wigs.com</link>
     <description>Product feed for Samuel-wigs</description>
-    <lastBuildDate>Wed, 06 May 2026 10:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:04:29 GMT</lastBuildDate>
     <item>
       <g:id>49a932bf-24d0-455f-931a-e20644e67413</g:id>
       <g:title>דבק דו צדדי לפאות תחרה</g:title>
@@ -208,6 +208,20 @@
       <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777309234951-1d3ylu.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>5650.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Samuel-wigs</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>6de74b03-733b-4e6f-b280-f65362ce0d95</g:id>
+      <g:title>פאה גלי פוני (Copy)</g:title>
+      <g:description>פאה גלי פוני (Copy)</g:description>
+      <g:link>https://www.samuel-wigs.com/product/pah-gly-pvny-copy-hli5m1</g:link>
+      <g:image_link>https://www.samuel-wigs.com/assets/product-1777124244756-uztixn.webp</g:image_link>
+      <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777309533669-j4bgl.webp</g:additional_image_link>
+      <g:additional_image_link>https://www.samuel-wigs.com/assets/product-1777309536971-ghanff.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>4150.00 ILS</g:price>
       <g:condition>new</g:condition>
       <g:brand>Samuel-wigs</g:brand>
       <g:identifier_exists>no</g:identifier_exists>

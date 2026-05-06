@@ -72,7 +72,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 20**
+**Total active products: 21**
 
 ### דבק דו צדדי לפאות תחרה
 https://www.samuel-wigs.com/product/dbk-dv-tsddy-lpavt-tchrh-d0ebyt
@@ -186,6 +186,12 @@ https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-th63t2
 - Availability: In stock
 - Description: אורך 30 סוג תחרה: שווצרית פרונטלית 4×13 צבע הרשת : שקוף hd סוג שיער: ברזילאי 100% טבעי b1 כמות שיער :2 חבילות + פרונטל פאה מגיעה מוכנה עם גומי וסיכות
 - Image: https://www.samuel-wigs.com/assets/product-1776954229843-2c1ebbd.webp
+
+### פאה גלי פוני (Copy)
+https://www.samuel-wigs.com/product/pah-gly-pvny-copy-hli5m1
+- Price: 4150.00 ILS
+- Availability: In stock
+- Image: https://www.samuel-wigs.com/assets/product-1777124244756-uztixn.webp
 
 ### פאה גלי פוני
 https://www.samuel-wigs.com/product/pah-gly-pvny-pcjvfq

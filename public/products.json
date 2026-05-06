@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T10:01:20.373Z",
+  "generated_at": "2026-05-06T10:04:29.120Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
-  "count": 20,
+  "count": 21,
   "products": [
     {
       "id": "49a932bf-24d0-455f-931a-e20644e67413",
@@ -368,6 +368,30 @@
       "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-th63t2",
       "categories": [],
       "updated_at": "2026-04-29T14:34:08.474Z"
+    },
+    {
+      "id": "6de74b03-733b-4e6f-b280-f65362ce0d95",
+      "slug": "pah-gly-pvny-copy-hli5m1",
+      "name": "פאה גלי פוני (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 4150,
+      "base_price": 4150,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1777124244756-uztixn.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309533669-j4bgl.webp",
+        "https://www.samuel-wigs.com/assets/product-1777309536971-ghanff.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-copy-hli5m1",
+      "categories": [],
+      "updated_at": "2026-05-06T10:03:58.221Z"
     },
     {
       "id": "88855c69-5e4b-424b-b210-2bdb38979368",
