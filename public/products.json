@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-06T11:37:19.089Z",
+  "generated_at": "2026-05-06T11:40:28.323Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 23,
@@ -178,11 +178,11 @@
     },
     {
       "id": "11a0c3e5-16cd-4562-96c9-41fb735d2255",
-      "slug": "pah-mtvltlt-karh-y94e82",
+      "slug": "pah-mtvltlt-karh-m58f7x",
       "name": "פאה מתולתלת קארה ",
       "name_translations": {},
       "description": "",
-      "short_description": "אורך 14\nסוג תחרה: שווצרית קלוז'ר  \nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + קלוז'ר\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "short_description": "אורך 14\nסוג תחרה: שווצרית קלוז'ר  5×5\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + קלוז'ר\nפאה מגיעה מוכנה עם גומי וסיכות",
       "sku": null,
       "brand": null,
       "price": 2250,
@@ -190,15 +190,16 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp"
+        "https://www.samuel-wigs.com/assets/product-1776955070984-og4hg.webp",
+        "https://www.samuel-wigs.com/assets/product-1778067453374-2qpk1o.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-karh-y94e82",
+      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-karh-m58f7x",
       "categories": [
         "פאות במשלוח מהיר לבית 7 ימי עסקים"
       ],
-      "updated_at": "2026-05-06T11:15:52.858Z"
+      "updated_at": "2026-05-06T11:39:57.535Z"
     },
     {
       "id": "01ff1bc1-d566-450f-9bab-2bb8bc60d03c",
