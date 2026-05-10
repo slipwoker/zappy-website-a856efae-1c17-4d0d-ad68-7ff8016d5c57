@@ -78,6 +78,7 @@ Information about WCAG compliance and accessibility features.
 https://www.samuel-wigs.com/product/tvspvt-shyar-hvdy-mtvltl-gly-gvlmy-vozn9i
 - Price: 0.00 ILS
 - Availability: In stock
+- Description: שיער הודי מתולתל גלי
 - Image: https://www.samuel-wigs.com/assets/product-1778419993350-i59p7c.webp
 
 ### דבק דו צדדי לפאות תחרה
