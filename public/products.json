@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-10T13:30:29.264Z",
+  "generated_at": "2026-05-10T13:34:40.043Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
-  "count": 24,
+  "count": 25,
   "products": [
+    {
+      "id": "60a39098-71b3-4bc9-a8a4-93e4fff0c42d",
+      "slug": "tvspvt-shyar-hvdy-mtvltl-gly-gvlmy-vozn9i",
+      "name": "תוספות שיער הודי  מתולתל גלי גולמי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://www.samuel-wigs.com/assets/product-1778419993350-i59p7c.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://www.samuel-wigs.com/product/tvspvt-shyar-hvdy-mtvltl-gly-gvlmy-vozn9i",
+      "categories": [],
+      "updated_at": "2026-05-10T13:34:09.249Z"
+    },
     {
       "id": "49a932bf-24d0-455f-931a-e20644e67413",
       "slug": "dbk-dv-tsddy-lpavt-tchrh-d0ebyt",
