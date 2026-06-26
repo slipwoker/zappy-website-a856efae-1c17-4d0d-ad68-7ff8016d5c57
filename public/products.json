@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T08:16:53.886Z",
+  "generated_at": "2026-06-26T08:17:30.635Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -444,7 +444,7 @@
     },
     {
       "id": "1935b1cc-7ff9-4f7a-a9c9-bea7ecc6dfa5",
-      "slug": "pah-mtvltlt-arvkh-cufwuc",
+      "slug": "pah-mtvltlt-arvkh-gv4sf9",
       "name": "פאה מתולתלת ארוכה",
       "name_translations": {},
       "description": "",
@@ -462,9 +462,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-cufwuc",
+      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-gv4sf9",
       "categories": [],
-      "updated_at": "2026-06-26T08:12:20.572Z"
+      "updated_at": "2026-06-26T08:16:59.316Z"
     },
     {
       "id": "6de74b03-733b-4e6f-b280-f65362ce0d95",
