@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T14:30:15.240Z",
+  "generated_at": "2026-06-26T08:12:52.140Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -444,15 +444,15 @@
     },
     {
       "id": "1935b1cc-7ff9-4f7a-a9c9-bea7ecc6dfa5",
-      "slug": "pah-mtvltlt-arvkh-th63t2",
+      "slug": "pah-mtvltlt-arvkh-cufwuc",
       "name": "פאה מתולתלת ארוכה",
       "name_translations": {},
       "description": "",
       "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
       "sku": null,
       "brand": null,
-      "price": 5650,
-      "base_price": 5650,
+      "price": 5750,
+      "base_price": 5750,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -462,9 +462,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-th63t2",
+      "url": "https://www.samuel-wigs.com/product/pah-mtvltlt-arvkh-cufwuc",
       "categories": [],
-      "updated_at": "2026-04-29T14:34:08.474Z"
+      "updated_at": "2026-06-26T08:12:20.572Z"
     },
     {
       "id": "6de74b03-733b-4e6f-b280-f65362ce0d95",
