@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T08:21:01.326Z",
+  "generated_at": "2026-06-26T08:21:21.789Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -127,27 +127,27 @@
     },
     {
       "id": "d127095a-bbaa-4b7b-b9c6-2a05ea8ee98a",
-      "slug": "spryy-dbk-lpah-vlshyar-500-ml-uw9ysv",
+      "slug": "spryy-dbk-lpah-vlshyar-500-ml-vcdvdh",
       "name": "ספריי דבק לפאה ולשיער 500 מ\"ל",
       "name_translations": {},
       "description": "",
       "short_description": "ספריי דבק לפאת תחרה קיבוע מהיר, נוח וטבעי למראה מושלם. מעניק אחיזה עדינה אך יציבה, מצמיד את התחרה לקרקפת ויוצר גימור חלק, נקי ובלתי נראה.\nהנוסחה הקלילה מתייבשת במהירות, אינה מכבידה על השיער ומתמזגת בצורה אחידה עם גוון העור. מתאים גם לעיצוב השיער ולשמירה על התסרוקת, עם עמידות לאורך כל היום.\nעדין לקו השיער ולקרקפת, שומר על השיער הטבעי ומתאים גם להתקנה ללא דבק או לחיזוק נוסף מעל דבק קיים.\nטיפ: לרסס שכבה אחידה ולייבש עם פן לפני הצמדת התחרה – לתוצאה חלקה, מדויקת ועמידה יותר",
       "sku": null,
       "brand": null,
-      "price": 220,
+      "price": 340,
       "base_price": 340,
-      "sale_price": 220,
+      "sale_price": null,
       "currency": "ILS",
       "images": [
         "https://www.samuel-wigs.com/assets/product-1777477969310-nlxkj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/spryy-dbk-lpah-vlshyar-500-ml-uw9ysv",
+      "url": "https://www.samuel-wigs.com/product/spryy-dbk-lpah-vlshyar-500-ml-vcdvdh",
       "categories": [
         "מוצרים נלווים לפאה"
       ],
-      "updated_at": "2026-06-26T08:20:50.066Z"
+      "updated_at": "2026-06-26T08:21:21.270Z"
     },
     {
       "id": "26da3f05-a6c2-46f2-8008-6d80ae217062",
