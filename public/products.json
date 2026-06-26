@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T08:15:05.465Z",
+  "generated_at": "2026-06-26T08:16:53.886Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -468,7 +468,7 @@
     },
     {
       "id": "6de74b03-733b-4e6f-b280-f65362ce0d95",
-      "slug": "pah-gly-pvny-bvbh-y15ut4",
+      "slug": "pah-gly-pvny-bvbh-qptgzf",
       "name": "פאה גלי פוני בובה",
       "name_translations": {},
       "description": "",
@@ -485,15 +485,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-bvbh-y15ut4",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-bvbh-qptgzf",
       "categories": [
         "פאות במשלוח מהיר לבית 9 ימי עסקים"
       ],
-      "updated_at": "2026-05-06T11:36:48.317Z"
+      "updated_at": "2026-06-26T08:16:39.992Z"
     },
     {
       "id": "88855c69-5e4b-424b-b210-2bdb38979368",
-      "slug": "pah-gly-pvny-pcjvfq",
+      "slug": "pah-gly-pvny-48fhmn",
       "name": "פאה גלי פוני",
       "name_translations": {},
       "description": "",
@@ -511,13 +511,13 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-pcjvfq",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-pvny-48fhmn",
       "categories": [],
-      "updated_at": "2026-04-29T14:35:07.091Z"
+      "updated_at": "2026-06-26T08:16:22.606Z"
     },
     {
       "id": "3c1bde5e-caee-486d-a71e-8841b4e9710f",
-      "slug": "pah-chlkh-arvkh-xpw0ak",
+      "slug": "pah-chlkh-arvkh-df8v6c",
       "name": "פאה חלקה ארוכה",
       "name_translations": {},
       "description": "",
@@ -535,13 +535,13 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-chlkh-arvkh-xpw0ak",
+      "url": "https://www.samuel-wigs.com/product/pah-chlkh-arvkh-df8v6c",
       "categories": [],
-      "updated_at": "2026-06-26T08:13:37.800Z"
+      "updated_at": "2026-06-26T08:16:02.879Z"
     },
     {
       "id": "732aa1d9-410a-44ed-94c2-f8d2fc5a7fe4",
-      "slug": "pah-gly-arvkh-9u9mu3",
+      "slug": "pah-gly-arvkh-o6pxti",
       "name": "פאה גלי ארוכה",
       "name_translations": {},
       "description": "",
@@ -559,9 +559,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-arvkh-9u9mu3",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-arvkh-o6pxti",
       "categories": [],
-      "updated_at": "2026-06-26T08:14:33.779Z"
+      "updated_at": "2026-06-26T08:15:44.918Z"
     },
     {
       "id": "d6ac083d-9f8f-40fe-b3f8-7ed1c0d5deae",
@@ -589,7 +589,7 @@
     },
     {
       "id": "f534a01d-7e92-4430-b671-e40fb3c486db",
-      "slug": "pah-chlkh-riubmz",
+      "slug": "pah-chlkh-nv6e78",
       "name": "פאה חלקה",
       "name_translations": {},
       "description": "",
@@ -607,9 +607,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-chlkh-riubmz",
+      "url": "https://www.samuel-wigs.com/product/pah-chlkh-nv6e78",
       "categories": [],
-      "updated_at": "2026-04-29T14:38:35.844Z"
+      "updated_at": "2026-06-26T08:15:26.864Z"
     }
   ]
 }
