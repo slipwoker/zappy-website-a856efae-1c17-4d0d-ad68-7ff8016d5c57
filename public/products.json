@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T08:14:09.628Z",
+  "generated_at": "2026-06-26T08:15:05.465Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -541,15 +541,15 @@
     },
     {
       "id": "732aa1d9-410a-44ed-94c2-f8d2fc5a7fe4",
-      "slug": "pah-gly-arvkh-n5798p",
+      "slug": "pah-gly-arvkh-9u9mu3",
       "name": "פאה גלי ארוכה",
       "name_translations": {},
       "description": "",
       "short_description": "אורך 30\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
       "sku": null,
       "brand": null,
-      "price": 5650,
-      "base_price": 5650,
+      "price": 5750,
+      "base_price": 5750,
       "sale_price": null,
       "currency": "ILS",
       "images": [
@@ -559,9 +559,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-arvkh-n5798p",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-arvkh-9u9mu3",
       "categories": [],
-      "updated_at": "2026-04-29T14:36:56.525Z"
+      "updated_at": "2026-06-26T08:14:33.779Z"
     },
     {
       "id": "d6ac083d-9f8f-40fe-b3f8-7ed1c0d5deae",
