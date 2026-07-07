@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T19:10:06.969Z",
+  "generated_at": "2026-07-07T19:12:00.354Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -395,7 +395,7 @@
     },
     {
       "id": "068b6612-124e-4045-9be9-8696453e04aa",
-      "slug": "pah-gly-tbayt-1aa99b",
+      "slug": "pah-gly-tbayt-cvmmb4",
       "name": "פאה גלי טבעית  ",
       "name_translations": {},
       "description": "",
@@ -412,11 +412,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-1aa99b",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-cvmmb4",
       "categories": [
         "פאות במשלוח מהיר לבית 9 ימי עסקים"
       ],
-      "updated_at": "2026-07-07T19:00:28.619Z"
+      "updated_at": "2026-07-07T19:11:28.548Z"
     },
     {
       "id": "5e84f676-bd35-47ae-ad81-78ff6ab7d9a7",
