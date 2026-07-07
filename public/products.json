@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T19:04:40.824Z",
+  "generated_at": "2026-07-07T19:09:52.542Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
   "count": 25,
@@ -298,11 +298,11 @@
     },
     {
       "id": "57be1ab3-6bf8-4a3d-ab6d-6165681859ba",
-      "slug": "pah-gly-tbayt-a4mflx",
+      "slug": "pah-gly-tbayt-fk3oin",
       "name": "פאה גלי טבעית ",
       "name_translations": {},
       "description": "",
-      "short_description": "אורך 22   מידה : XS\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
+      "short_description": "אורך 22   \nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
       "sku": null,
       "brand": null,
       "price": 2850,
@@ -315,11 +315,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-a4mflx",
+      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-fk3oin",
       "categories": [
         "פאות במשלוח מהיר לבית 9 ימי עסקים"
       ],
-      "updated_at": "2026-07-07T19:04:09.488Z"
+      "updated_at": "2026-07-07T19:09:35.292Z"
     },
     {
       "id": "dba815f1-9f80-4805-bb0d-b60b936faaa5",
