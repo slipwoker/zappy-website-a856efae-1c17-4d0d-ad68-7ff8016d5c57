@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-07T19:12:00.354Z",
+  "generated_at": "2026-07-08T07:02:25.570Z",
   "base_url": "https://www.samuel-wigs.com",
   "currency": "ILS",
-  "count": 25,
+  "count": 24,
   "products": [
     {
       "id": "60a39098-71b3-4bc9-a8a4-93e4fff0c42d",
@@ -392,31 +392,6 @@
       "url": "https://www.samuel-wigs.com/product/pah-chlkh-pvny-arvkh-6as9c6",
       "categories": [],
       "updated_at": "2026-06-26T08:18:14.071Z"
-    },
-    {
-      "id": "068b6612-124e-4045-9be9-8696453e04aa",
-      "slug": "pah-gly-tbayt-cvmmb4",
-      "name": "פאה גלי טבעית  ",
-      "name_translations": {},
-      "description": "",
-      "short_description": "אורך 20\nסוג תחרה: שווצרית פרונטלית 4×13\nצבע הרשת : שקוף hd\nסוג שיער: ברזילאי 100% טבעי  b1\nכמות שיער :2 חבילות וחצי + פרונטל\nפאה מגיעה מוכנה עם גומי וסיכות",
-      "sku": null,
-      "brand": null,
-      "price": 3450,
-      "base_price": 3450,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://www.samuel-wigs.com/assets/product-1776954318641-xlgdu8.webp",
-        "https://www.samuel-wigs.com/assets/product-1777309132490-1nqc3f.webp"
-      ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://www.samuel-wigs.com/product/pah-gly-tbayt-cvmmb4",
-      "categories": [
-        "פאות במשלוח מהיר לבית 9 ימי עסקים"
-      ],
-      "updated_at": "2026-07-07T19:11:28.548Z"
     },
     {
       "id": "5e84f676-bd35-47ae-ad81-78ff6ab7d9a7",
